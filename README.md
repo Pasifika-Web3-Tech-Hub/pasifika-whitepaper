@@ -4,17 +4,17 @@
  <img width="1000" src="/pasifika.png">
 </p>
 
-## A PASIFIKA Token-Powered DePIN for Pacific Island Communities
+## A Community-Powered DePIN for Pacific Island Communities on Arbitrum
 
-**Version 1.0 | May 2025**
+**Version 2.0 | May 2025**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-The Pasifika Web3 Tech Hub represents a groundbreaking decentralized physical infrastructure network (DePIN) designed specifically for Pacific Island communities. Leveraging the native PASIFIKA token (PSF) and built on Linea's zkEVM Layer-2 technology, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders.
+The Pasifika Web3 Tech Hub represents a groundbreaking decentralized physical infrastructure network (DePIN) designed specifically for Pacific Island communities. Built on Arbitrum's Layer-2 scaling solution on Ethereum, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders.
 
-This whitepaper outlines our comprehensive approach to building a decentralized marketplace that connects PSF token holders, data providers, content creators, artisans, farmers, validators, and global consumers in a tokenized ecosystem that spans both digital and physical infrastructure.
+This whitepaper outlines our comprehensive approach to building a decentralized marketplace that connects community members, data providers, content creators, artisans, farmers, validators, and global consumers in an ecosystem that spans both digital and physical infrastructure.
 
 The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific Island communities:
 
@@ -24,7 +24,7 @@ The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific 
 - Limited technological infrastructure and digital inclusion
 - Need for sustainable economic development models
 
-Our solution implements a token-powered marketplace with integrated physical infrastructure (node operators, distribution hubs, craft documentation centers) and digital components (PSF token, Linea zkEVM, AI agents, marketplace, metadata systems) that generates real value while preserving cultural integrity.
+Our solution implements a community-powered marketplace with integrated physical infrastructure (node operators, distribution hubs, craft documentation centers) and digital components (Arbitrum blockchain, marketplace, metadata systems) that generates real value while preserving cultural integrity.
 
 ---
 
@@ -35,29 +35,29 @@ Our solution implements a token-powered marketplace with integrated physical inf
 3. Platform Architecture
    - Physical Infrastructure
    - Digital Infrastructure
+   - Pasifika Exchange
    - Integration Model
-4. PASIFIKA Token (PSF)
-   - Utility & Governance
-   - Tokenomics
-   - Distribution Model
+4. Membership System
+   - Tiered Structure
+   - Benefits & Rights
+   - Annual Profit-Sharing
 5. Marketplace Design
    - Categories & Offerings
-   - Dynamic NFT Implementation
+   - NFT Implementation
    - Quality Control & Validation
-6. Governance Structure
-   - Token-Based Governance
+6. Community Governance
    - Decision-Making Process
    - Working Groups
+   - Transparency Mechanisms
 7. Cultural Protection Framework
    - Metadata Standards
    - Verification Systems
    - Intellectual Property Protection
 8. Localization Framework
 9. Technical Implementation
-   - Linea zkEVM Integration
+   - Arbitrum Integration
    - Node Operator Architecture
-   - AI Agent Implementation
-   - Chainlink Oracle Integration
+   - Smart Contract Structure
 10. Development Roadmap
 11. Team & Partners
 12. Financial Projections
@@ -83,7 +83,7 @@ The Pasifika Web3 Tech Hub envisions a decentralized digital economy that empowe
 
 ### 1.3 Mission & Values
 
-**Mission:** To create a PASIFIKA token-powered decentralized marketplace and infrastructure network that empowers Pacific Islanders to share, monetize, and access data, digital content, traditional artifacts, handicrafts, and local agricultural produce in a fair, transparent, and community-governed environment.
+**Mission:** To create a decentralized marketplace and infrastructure network that empowers Pacific Islanders to share, monetize, and access data, digital content, traditional artifacts, handicrafts, and local agricultural produce in a fair, transparent, and community-governed environment.
 
 **Core Values:**
 - Community Ownership
@@ -103,63 +103,89 @@ The Pasifika Web3 Tech Hub envisions a decentralized digital economy that empowe
 
 The intersection of DePIN (Decentralized Physical Infrastructure Networks) and cultural marketplaces represents an emerging opportunity with limited established competitors. Current solutions targeting Pacific Island communities include:
 
-- Centralized e-commerce platforms with high fees and limited cultural context
-- Tourism-focused handicraft markets with limited global reach
-- Individual producer websites with minimal discoverability
-- Traditional export channels with multiple intermediaries reducing producer income
+- Traditional e-commerce platforms (limited catalog, high fees, cultural disconnect)
+- Cultural marketplaces (centralized, limited product range, high commissions)
+- Web3 marketplaces (not designed for Pacific contexts, limited physical infrastructure)
+- Data markets (exclude cultural components, not community-owned)
 
-### 2.2 Market Size & Growth Potential
+### 2.2 Market Size & Growth
 
-The global market for authentic cultural products and ethically sourced agricultural goods continues to expand:
+The total addressable market for the platform includes:
 
-- Global ethical consumer goods market: $1.3 trillion (2024)
-- Cultural tourism market: $1.1 trillion (2024)
-- Traditional crafts and artisanal goods market: $526 billion (2024)
-- Pacific Island regional exports: $5.7 billion (2024)
+**Pacific Island handicraft market: $1.9-2.7B annually**
+- The Asia Pacific handicrafts market is valued at $210B (2024), with the Pacific Islands representing a culturally significant segment of this market
+- Strong connection to tourism, cultural ceremonies, and employment opportunities across the region
 
-A decentralized marketplace capturing even a small percentage of these markets represents a significant opportunity for Pacific Island producers.
+**Pacific Island agricultural export market: $2.8-3.1B annually**
+- Pacific exports grew 169% over 20 years reaching $9.6B total across all sectors
+- Agricultural products are core exports, with countries like Fiji seeing steady growth in crop and livestock exports
 
-### 2.3 Target Participants
+**Cultural preservation funding: $200-250M annually**
+- Supported by frameworks like the Pacific Regional Framework for the Protection of Traditional Knowledge and Expressions of Culture
+- Growing recognition of the importance of preserving cultural heritage
+
+**Diaspora remittances: $7.5-9.7B annually**
+- Formal recorded remittances totaled $675M in 2019, with individual countries like Vanuatu receiving $208M (2021)
+- Significant portion travels through informal channels (estimated 50% larger than recorded flows)
+- Critical economic lifeline for many Pacific Island families and communities
+
+**Sustainable tourism market: $4.5-6.3B annually**
+- Pacific island tourism generated $6.29B in receipts in 2019 (20% of regional GDP)
+- Growing trend toward sustainable tourism practices with global market CAGR of 14-19%
+- Recovery from pandemic disruption showing strong sustainability focus
+
+**Pacific-specific data market: $600-780M annually**
+- Growing digital ecosystem with initiatives like the Pacific Data Hub
+- Increasing value placed on regional data for climate adaptation, development planning, and resource management
+
+**Traditional knowledge licensing: $250-320M potential market**
+- Applications in climate resilience, medicine, conservation and sustainable development
+- Emerging licensing frameworks to protect against exploitation while enabling appropriate commercialization
+
+This total addressable market represents a $17.8-23.2B opportunity for a platform that can effectively connect these sectors and leverage their complementary strengths. The Pasifika Web3 Tech Hub targets 5% market penetration within five years through its integrated approach.
+
+### 2.3 Stakeholder Analysis
 
 **Supply Side:**
-- Artisans and craftspeople (estimated 175,000 across Pacific Islands)
-- Small-scale farmers and food producers (estimated 1.2 million)
+- Artisans and craftspeople
+- Farmers and food producers
 - Cultural knowledge holders and content creators
 - Environmental and economic data providers
 - Node operators providing computational resources
 
 **Demand Side:**
 - Global ethical consumers seeking authentic products
-- Diaspora community members (estimated 2.7 million worldwide)
+- Diaspora community members (estimated 3.5+ million Pacific Islanders living abroad, primarily in Australia, New Zealand, and the United States)
 - Researchers and organizations seeking Pacific Island data
 - Tourists and cultural enthusiasts
 - Import businesses and specialty retailers
 
 ### 2.4 Competitive Advantage
 
-The Pasifika Web3 Tech Hub offers unique advantages:
+The Pasifika Web3 Tech Hub differentiates through:
 
-- Purpose-built for Pacific Island context and cultural considerations
-- Direct producer-to-consumer connections without intermediaries
-- Token-powered incentive alignment between all participants
-- Integration of physical infrastructure with digital marketplace
-- AI-native functionality for enhanced market efficiency
-- Cultural protection mechanisms embedded at protocol level
-- Island-specific localization approach
+1. **Authentic Pacific Focus:** Built by and for Pacific Islanders
+2. **Integrated Physical-Digital Infrastructure:** Both on-chain functionality and physical distribution
+3. **Community Profit-Sharing:** Ensures economic benefits stay within communities
+4. **Comprehensive Cultural Protection:** Safeguards traditional knowledge and practices
+5. **Island-Specific Localization:** Adapts to diverse Pacific contexts
+6. **Low Fees & High Transparency:** Transaction fees as low as 0.25%
+7. **Technical Employment:** Creates opportunities for Pacific Islanders in technical roles
 
 ---
 
 ## 3. PLATFORM ARCHITECTURE
 
-The Pasifika Web3 Tech Hub implements a comprehensive DePIN model integrating both physical and digital infrastructure components to create a self-reinforcing ecosystem.
+The platform integrates physical and digital infrastructure to create a comprehensive ecosystem:
 
 ### 3.1 Physical Infrastructure
 
-#### 3.1.1 Node Operators (Personal Computers)
-- Distributed network of personal computers operated by community members
-- Process and validate environmental, economic, and cultural data
-- Support marketplace operations and token transactions
-- Update dynamic NFT states based on real-world conditions
+#### 3.1.1 Node Operators
+- Distributed network of computers operated by community members
+- Perform computational tasks for the network
+- Monitor environmental conditions
+- Collect and process data
+- Update NFT states based on real-world conditions
 - Create verifiable provenance for agricultural products
 
 #### 3.1.2 Local Distribution Hubs
@@ -168,170 +194,160 @@ The Pasifika Web3 Tech Hub implements a comprehensive DePIN model integrating bo
 - Quality control and verification services
 - Fulfillment of marketplace orders
 - Education and technical support
-- PSF token access points for local participants
+- Payment access points for local participants
 
 #### 3.1.3 Craft Documentation Centers
 - Facilities for digitizing traditional crafts
-- Authentication of traditional techniques
-- Digital preservation of indigenous knowledge
-- Creation of verifiable NFT certificates for physical items
-- Training in digital documentation methods
-- Integration with PSF token ecosystem
+- 3D scanning and digital preservation
+- Training for digital documentation
+- Metadata creation and cultural context
+- High-quality product photography
+- Documentation of production techniques
+- Integration with cultural protection framework
 
 ### 3.2 Digital Infrastructure
 
-#### 3.2.1 PASIFIKA Token (PSF)
-- Native utility and governance token
-- ERC-20 token built on Linea zkEVM
-- Marketplace currency for all transactions
-- Governance rights through token staking
-- Incentives for ecosystem participants
-- Rewards for quality contributions
-- Economic alignment mechanism
+#### 3.2.1 Arbitrum Layer-2
+- Ethereum Layer-2 scaling solution
+- Low gas fees and high transaction throughput
+- Smart contract capabilities for marketplace
+- NFT standards for digital assets
+- Security and transaction finality
+- Bridge to Ethereum mainnet
 
-#### 3.2.2 Linea zkEVM Layer-2
-- Consensys-powered scaling solution
-- Dynamic NFT implementation for marketplace goods and services
-- Low-cost, high-throughput transaction processing
-- Zero-knowledge proof security
-- Gas-efficient smart contracts for marketplace operations
+#### 3.2.2 Marketplace Smart Contracts
+- Escrow and secure transactions
+- Auction mechanisms
+- Direct sales
+- Fixed price listings
+- Royalty distributions
+- Verification systems
+- Fee structures based on membership tier
 
-#### 3.2.3 AI Native Infrastructure
-- TachyonX-aligned autonomous agent system
-- Automated market operations and matchmaking
-- Privacy-preserving machine learning using zero-knowledge proofs
-- Intent-based commerce systems
-- Agent coordination and orchestration protocols
+#### 3.2.3 NFT Framework
+- Standard NFTs for digital assets
+- Support for traditional knowledge protection
+- Rich metadata for cultural context
+- Royalty mechanisms for creators
+- Product provenance and authenticity
+- Quality verification records
+- Extensible metadata fields
 
-#### 3.2.4 Chainlink Oracle
-- Price feeds for PASIFIKA token
-- Real-time data feeds to update dynamic NFT states
+#### 3.2.4 External Data Sources
+- Price feeds for stable transaction values
+- Real-time data feeds to update NFT states
 - External data verification from node operators
 - Weather and climate data for agricultural applications
 - Cross-chain bridge functionality
 
 #### 3.2.5 Decentralized Marketplace
-- Central platform connecting providers and consumers
-- All goods and services represented as dynamic NFTs
-- Physical goods, digital assets, and services tracked with real-time updates
-- All transactions settled in PASIFIKA tokens
-- AI agents facilitating intent-based commerce
-- Smart contracts automating payment distribution
-- Metadata enrichment for discoverability and provenance
-- Cultural protection algorithms
+- Web and mobile interfaces
+- Cultural context presentation
+- Producer and artisan profiles
+- Educational content
+- Regional specifications
+- Localized interfaces
+- Island-specific customizations
 
-#### 3.2.6 Verifiable Metadata System
-- Comprehensive data layer ensuring proper categorization
-- Cultural knowledge appropriately protected
-- Physical items with digital twin representations
-- Provenance tracked through DIDs
-- Search and discovery optimization
-
-#### 3.2.7 Reputation Protocol
-- Trust system rewarding quality, authenticity, and reliability
-- Incorporation of traditional validation methods
-- Incentives for honest participation
-- Consumer confidence building
-
-#### 3.2.8 InterPlanetary File System (IPFS)
-- Distributed storage for marketplace assets
+#### 3.2.6 IPFS Integration
+- Decentralized storage for NFT metadata
+- Product imagery and documentation
 - Digital content preservation
 - Metadata references
 - Resilient, censorship-resistant storage
 
-### 3.3 Integration Model
+### 3.3 Pasifika Exchange
+
+The Pasifika Exchange represents a cornerstone of our platform infrastructure as the first decentralized exchange designed specifically for Pacific Island communities. This groundbreaking financial component will:
+
+- Enable secure trading of digital assets with low fees and cross-island interoperability
+- Facilitate remittances and cross-border transfers between islands
+- Provide liquidity for local asset trading and community tokens
+- Implement specialized order matching for low-volume but culturally significant assets
+- Support fiat on/off ramps with localized payment methods
+- Ensure regulatory compliance while preserving user privacy
+- Feature an intuitive interface optimized for island connectivity constraints
+
+The Exchange will be seamlessly integrated with both the physical and digital infrastructure components, with node operators helping to secure the exchange's transactions and local distribution hubs potentially serving as fiat access points.
+
+### 3.4 Integration Model
 
 The platform's unique strength comes from the seamless integration between physical and digital components:
 
-1. **Data Flow Integration:** Node operators collect and process data that flows through Chainlink Oracle to update dynamic NFTs on Linea, creating a real-time connection between physical reality and digital representations.
+1. **Data Flow Integration:** Node operators collect and process data that flows through external oracles to update NFTs on Arbitrum, creating a real-time connection between physical reality and digital representations.
 
-2. **Financial Flow Integration:** PSF tokens flow from consumers to producers through the marketplace, with automated distribution to various stakeholders and physical infrastructure support via treasury allocation.
+2. **Financial Flow Integration:** Digital marketplace transactions trigger physical fulfillment through distribution hubs, with verification feedback completing the cycle.
 
-3. **Governance Integration:** Token-based voting directly impacts both digital protocols and physical infrastructure investments through transparent on-chain governance.
+3. **Knowledge Flow Integration:** Traditional knowledge is protected yet accessible through the metadata system, creating appropriate bridges between cultural heritage and digital representation.
 
-4. **Cultural Integration:** Traditional verification processes are combined with blockchain attestations to create hybrid trust mechanisms that respect both technological and cultural validation.
+4. **Quality Control Integration:** Physical verification by validators is recorded on-chain, creating trusted provenance for both physical and digital items.
 
-5. **Localization Integration:** Island-specific interfaces and content ensure that digital experiences reflect the diversity of physical communities and contexts.
+5. **Community Node Integration:** Each island cluster develops its own network of nodes and hubs that connect to the global platform while maintaining local sovereignty.
 
 ---
 
-## 4. PASIFIKA TOKEN (PSF)
+## 4. MEMBERSHIP SYSTEM
 
-### 4.1 Token Utility & Governance
+### 4.1 Tiered Structure
 
-The PASIFIKA token (PSF) serves multiple critical functions within the ecosystem:
+The platform employs a 3-tier system that rewards participation and contribution:
 
-**Utility Functions:**
-- Primary medium of exchange for all marketplace transactions
-- Staking for validator roles and quality assurance
-- Fees for premium services and expedited processing
-- Rewards for content creation and data provision
-- Compensation for node operators
-- Access credentials for restricted cultural content (where appropriate)
+**Tier 0: Guest**
+- Default tier for all users
+- 1% fee on all transactions
+- Basic marketplace access
+- No profit-sharing eligibility
 
-**Governance Functions:**
-- Proposal submission rights (minimum threshold required)
-- Voting power for platform decisions
-- Working group participation eligibility
-- Treasury allocation influence
-- Protocol parameter adjustment
+**Tier 1: Member**
+- 0.5% fee on all transactions (50% discount)
+- Requires membership payment of 0.005 ETH
+- Full marketplace access
+- Profit-sharing eligibility
+- Community governance participation
 
-### 4.2 Tokenomics
+**Tier 2: Node Operator**
+- 0.25% fee on all transactions (75% discount)
+- Requires operating a validator node
+- ETH staking requirement
+- Priority marketplace access
+- Enhanced profit-sharing eligibility
+- Advanced governance rights
 
-**Total Supply:** 1,000,000,000 PSF
+### 4.2 Benefits & Rights
 
-**Distribution:**
-- **Community Allocation (40%)**: 400,000,000 PSF
-  - Pacific Island participants: 200,000,000 PSF
-  - Ecosystem growth and adoption: 150,000,000 PSF
-  - Community grants and initiatives: 50,000,000 PSF
+Membership provides a range of benefits designed to incentivize participation:
 
-- **DAO Treasury (25%)**: 250,000,000 PSF
-  - Infrastructure development: 100,000,000 PSF
-  - Staking rewards: 100,000,000 PSF
-  - Emergency/contingency fund: 50,000,000 PSF
+**Economic Benefits:**
+- Reduced transaction fees
+- Eligibility for annual profit-sharing
+- Priority marketplace listing
+- Access to direct producer relationships
+- Cheaper cross-border transactions
+- Reduced escrow requirements
 
-- **Team & Development (15%)**: 150,000,000 PSF
-  - 4-year vesting schedule with 1-year cliff
-  - Allocated to founders, developers, and early contributors
+**Governance Rights:**
+- Proposal submission rights
+- Voting on key decisions
+- Working group participation
+- Contribution to cultural protection guidelines
 
-- **TachyonX Allocation (10%)**: 100,000,000 PSF
-  - Strategic partnerships and technical development
-  - AI infrastructure integration
-  - Ecosystem alignment with Consensys
+**Access Benefits:**
+- Member-only resources and data
+- Early access to new features
+- Educational materials and training
+- Technical support priority
+- Community event participation
 
-- **Investors (10%)**: 100,000,000 PSF
-  - Private sale to strategic investors
-  - Public token sale
-  - Liquidity provision
+### 4.3 Annual Profit-Sharing
 
-**Vesting Schedule:**
-- **Community Allocation**: 10% at TGE, remaining linearly vested over 3 years
-- **DAO Treasury**: 15% at TGE, remaining unlocked based on governance votes
-- **Team & Development**: 1-year cliff, then linear vesting over 3 years
-- **TachyonX Allocation**: 10% at TGE, remaining vested over 2 years
-- **Investors**: Varies based on investment round, with strategic investors having longer lockups
+A key feature of the membership system is the Annual Profit-Sharing Event:
 
-**Token Burning:**
-- 10% of all marketplace fees permanently burned
-- Deflationary model reducing circulating supply over time
-
-**Staking Tiers:**
-- Bronze: 1,000+ PSF staked (1x governance weight)
-- Silver: 10,000+ PSF staked (1.5x governance weight)
-- Gold: 100,000+ PSF staked (2x governance weight)
-- Platinum: 1,000,000+ PSF staked (3x governance weight)
-
-### 4.3 Token Utility Loop
-
-The PASIFIKA token creates a self-reinforcing utility loop:
-
-1. Consumers purchase PASIFIKA tokens to access marketplace goods and services
-2. Tokens flow to producers, validators, and node operators
-3. Treasury receives percentage of transactions for infrastructure development
-4. Node operators and validators stake tokens to participate in consensus
-5. Platform growth increases token utility and adoption
-6. Burning mechanism reduces supply as transaction volume increases
+- 50% of treasury profits distributed equally to eligible members
+- Eligibility requires 100+ transactions AND 1+ ETH volume during the financial year
+- Pasifika Financial Year runs from December 27 to December 24
+- Transparent profit calculation and distribution
+- On-chain distribution record
+- Reinforces the core principle: "If we take care of our own, they will take care of us"
 
 ---
 
@@ -339,14 +355,14 @@ The PASIFIKA token creates a self-reinforcing utility loop:
 
 ### 5.1 Categories & Offerings
 
-The marketplace organizes offerings into four primary categories:
+The marketplace facilitates exchange of diverse assets and resources:
 
 **Data Resources:**
 - Environmental data (climate, ocean, biodiversity)
 - Economic and market data
 - Tourism and visitor information
 - Agricultural and fishing data
-- Other data types approved by governance vote
+- Other data types approved by community governance
 
 **Digital Content:**
 - Cultural stories and histories (approved for sharing)
@@ -358,7 +374,7 @@ The marketplace organizes offerings into four primary categories:
 **Cultural Artifacts & Handicrafts:**
 - Traditional crafts and artifacts
 - Contemporary Pacific Islander creations
-- Ceremonial items (where culturally appropriate)
+- Ceremonial items (where culturally appropriate to share)
 - Textiles and clothing
 - Jewelry and accessories
 - Home goods and furnishings
@@ -368,26 +384,53 @@ The marketplace organizes offerings into four primary categories:
 - Seafood and fish
 - Traditional staple crops
 - Value-added products (preserves, oils, spices)
-- Traditional foods and preparations
+- Traditional food preparations
 - Medicinal plants and preparations
 
-### 5.2 Dynamic NFT Implementation
+**Financial Services & Exchange:**
+- Cross-island remittances
+- Digital asset trading via Pasifika Exchange
+- Microloans and financing
+- Savings and investment products
 
-All marketplace listings are implemented as dynamic NFTs on Linea zkEVM, enabling real-time updates and state changes:
+**Services:**
+- Cultural consulting
+- Sustainability advisory
+- Digital creation services
+- Translation and localization
+- Tourism experiences
+- Educational workshops
 
-**For Physical Goods:**
-- Location tracking through supply chain
-- Freshness and quality indicators for agricultural products
-- Verification status updates
-- Ownership transfers
-- Conditional metadata reveals upon purchase
+### 5.2 NFT Implementation
+
+Digital assets on the marketplace use NFTs with rich metadata:
+
+**For Physical Products:**
+- Verifiable provenance
+- Production location
+- Creator/producer identity
+- Materials and techniques
+- Cultural significance
+- Sustainability metrics
+- Island of origin
+- Cultural context additions
 
 **For Digital Content:**
-- Usage rights and access control
-- Version history and updates
-- Citation and attribution tracking
-- View and interaction metrics
-- Cultural context additions
+- Creator identity
+- Cultural affiliation
+- Creation context
+- Usage rights
+- Cultural significance
+- Sharing permissions
+- Island of origin
+- Preservation context
+
+**For Data Resources:**
+- Temporal and geographical scope
+- Collection methodology
+- Format specifications and technical requirements
+- Version history and update frequency
+- Node operator source (if applicable)
 
 **For Services:**
 - Availability status
@@ -404,75 +447,80 @@ A multi-layered validation system ensures marketplace quality:
 - Cultural validators (for traditional knowledge and practices)
 - Quality validators (for product standards)
 - Technical validators (for data integrity)
-- Community validators (for general reputation)
+- Agricultural validators (for produce verification)
 
-**Validation Process:**
-1. Provider submits item with required metadata
-2. Automated checks for basic compliance
-3. Validator review based on item category
-4. Cultural authority consultation where needed
-5. Verification credentials attached to dynamic NFT
-6. Ongoing monitoring through consumer feedback
-7. Reputation scores updated based on performance
+**Validation Processes:**
+- Physical inspection at distribution hubs
+- Digital verification of metadata accuracy
+- Cultural appropriateness review
+- Technical specification compliance
+- Sustainability criteria verification
+- Producer/artisan identity confirmation
 
 **Dispute Resolution:**
-- First-level resolution through validator review
-- Second-level through community governance
-- Special protocols for cultural sensitivity issues
-- Transparent evidence presentation on-chain
-- Community voting for intractable disputes
+- GitHub-based pull request review process
+- Bitcoin Improvement Proposal (BIP) inspired approach for significant changes
+- Technical disagreements resolved through code implementation and testing
+- Documentation of decisions via commit history
+- Community consensus through open discussion and peer review
 
 ---
 
-## 6. GOVERNANCE STRUCTURE
+## 6. COMMUNITY GOVERNANCE
 
-### 6.1 Token-Based Governance
+### 6.1 Decision-Making Process
 
-The DAO implements a sophisticated token-based governance system:
+The platform employs a decentralized open source governance approach inspired by the Bitcoin development community:
 
-**Hybrid Voting Mechanism:**
-- Combines token-based voting power with GitHub contribution metrics ("Pasifika Proof-of-Work")
-- Total Voting Power = Token-Based Voting Power + GitHub Contribution Voting Power
-- This dual approach ensures both financial stakeholders and active technical contributors have governance influence
+**Decision Process:**
+1. Issue creation and problem identification
+2. Discussion in GitHub issues or mailing lists
+3. PIP (Pasifika Improvement Proposal) creation for significant changes
+4. Pull request submission with working code implementation
+5. Peer review and technical assessment
+6. Testing and verification
+7. Merge to main codebase when consensus is reached
 
-**Token-Based Voting:**
-- Voting power proportional to tokens staked
-- Quadratic voting system (voting power = square root of tokens staked)
-- Staking duration increases governance weight
-- Delegation capabilities for passive token holders
-- Special protection mechanisms for cultural decisions requiring approval from cultural authorities
+### 6.2 Working Groups
 
-**GitHub Contribution Metrics:**
-- Code contributions, repository activity, and community support tracked on-chain
-- Contribution points awarded based on activity type and impact
-- Activity consistency and cultural relevance multipliers applied
-- Pacific Islander contributors receive priority weighting
+Specialized working groups focus on key platform areas:
 
-### 6.2 Decision-Making Process
+**Core Developers:**
+- Protocol maintenance and development
+- Security reviews and vulnerability management
+- Technical debt reduction
 
-The DAO employs a structured process for all governance decisions:
+**Documentation Team:**
+- Technical documentation and guides
+- PIPs (Pasifika Improvement Proposals) standardization
+- Educational content for developers and users
+- Translation and localization efforts
 
-1. **Proposal Submission:**
-   - Minimum token stake required to submit proposals
-   - Standardized proposal format with clear implementation details
-   - Community discussion period before formal voting
+**Testing and QA:**
+- Test suite development and maintenance
+- Regression testing automation
+- Performance benchmarking
+- Bug bounty program management
+- Security audit coordination
 
-2. **Voting Process:**
-   - Regular proposals: 3-day discussion period, 5-day voting period
-   - Constitutional amendments: 7-day discussion period, 7-day voting period
-   - Implementation managed by relevant working groups
+**User Experience:**
+- Interface design and improvement
+- Accessibility standards
+- Developer API refinement
+- User-facing documentation
+- Integration support for builders
 
-3. **Decision Thresholds:**
-   - Simple majority required for operational decisions
-   - Two-thirds majority required for constitutional amendments
-   - Quorum requirement of 20% of total circulating PSF tokens for regular proposals
-   - Quorum requirement of 30% of total circulating PSF tokens for constitutional amendments
-   - Cultural decisions affecting traditional knowledge or practices require consent from relevant cultural authorities
+### 6.3 Transparency Mechanisms
 
-4. **Implementation:**
-   - Transparent execution through smart contracts
-   - Working group coordination for complex changes
-   - Regular progress updates to community
+Governance transparency is ensured through:
+
+- Public GitHub repositories with complete commit history
+- Open issue trackers and pull request discussions
+- Developer mailing lists and forum archives
+- Comprehensive documentation of design decisions
+- Regular technical meeting logs and recordings
+- Public code review comments
+- Test coverage and continuous integration reports
 
 ---
 
@@ -480,267 +528,224 @@ The DAO employs a structured process for all governance decisions:
 
 ### 7.1 Metadata Standards
 
-Comprehensive metadata standards form the foundation of cultural protection:
+The platform employs comprehensive metadata standards to protect cultural context:
 
-**Required Metadata Elements:**
-- Provenance and origin information
-- Cultural context and relevance
-- Usage limitations and ethical considerations
-- Quality indicators and confidence metrics
-- Blockchain verification and timestamp
-- Category-specific requirements (see Constitution)
+**Core Metadata Fields:**
+- Cultural affiliation
+- Traditional knowledge classification
+- Appropriate sharing permissions
+- Cultural significance context
+- Material source information
+- Traditional techniques employed
+- Language-specific descriptions
+- Regional variations
+- Historical context
 
-**Cultural Sensitivity Classifications:**
-- Public domain - freely shareable
-- Community restricted - limited distribution with attribution
-- Ceremonial restricted - special access controls
-- Sacred protected - not eligible for commercial marketplace
+**Implementation Requirements:**
+- Mandatory cultural fields for traditional items
+- Optional fields for contemporary creations
+- Island-specific customizations
+- Multiple language support
+- Elder verification option
+- Cultural advisor review process
 
 ### 7.2 Verification Systems
 
-Multi-level verification ensures cultural authenticity:
+A robust cultural verification system ensures appropriate representation:
 
-**Provider Verification:**
-- Identity verification through decentralized identifiers (DIDs)
-- Community attestation of cultural connection
-- Technical skill verification for artisans
-- Documentation of traditional knowledge rights
+**Verifier Qualifications:**
+- Cultural knowledge holders
+- Community-recognized experts
+- Traditional practitioners
+- Cultural organization representatives
+- Island-specific specialists
 
-**Content Verification:**
-- Cultural appropriateness review
-- Traditional technique authentication
-- Material sourcing verification
-- Design origin confirmation
-
-**Usage Verification:**
-- Appropriate context monitoring
-- Attribution enforcement
-- Royalty distribution tracking
-- License compliance verification
+**Verification Process:**
+1. Initial creator/producer declaration
+2. Community review period
+3. Specialist verification (when needed)
+4. Digital credential issuance
+5. On-chain verification record
+6. Periodic review and update
 
 ### 7.3 Intellectual Property Protection
 
-The platform implements custom IP protection mechanisms:
+The platform implements specialized protections for traditional knowledge:
 
-**Traditional Knowledge Protection:**
-- Community-based rights recognition
-- Benefit-sharing smart contracts
-- Cultural context preservation requirements
-- Misappropriation detection algorithms
+**Protection Mechanisms:**
+- Customized permissions framework
+- Usage rights enforcement
+- Commercial use limitations
+- Attribution requirements
+- Community benefit provisions
+- Cultural context preservation
+- Appropriate sharing guidelines
 
-**Attribution Frameworks:**
-- Transparent creator identification
-- Cultural lineage documentation
-- Learning context requirements
-- Revenue sharing with communities of origin
-
-**Usage Limitations:**
-- Smart contract enforcement of usage restrictions
-- Cultural context requirements
-- Commercial vs. non-commercial delineation
-- Ceremonial and sacred item protections
+**Community Rights Protection:**
+- Group ownership recognition
+- Cultural authority respect
+- Distribution hub oversight
+- Benefit-sharing enforcement
+- Regional specification compliance
+- Cultural integrity safeguards
 
 ---
 
 ## 8. LOCALIZATION FRAMEWORK
 
-The platform's localization approach extends beyond simple translation to comprehensive cultural adaptation:
+### 8.1 Island-Specific Adaptations
 
-### 8.1 Island-Specific Interfaces
+The platform respects the diverse cultures of the Pacific through:
 
-- Regional design patterns and visual language
-- Local imagery and contextual references
-- Cultural symbolism integration
-- Navigation aligned with cultural metaphors
+**Language Localization:**
+- Interface translations for 27+ Pacific languages
+- Cultural terminology adaptation
+- Oral interface options
+- Voice recognition for traditional languages
+- Island-specific dialect support
 
-### 8.2 Language Support
+**Cultural Customization:**
+- Island-specific marketplace categories
+- Customized metadata fields
+- Local cultural verification processes
+- Community-specific permissions
+- Regional distribution hub adaptation
+- Island-specific governance modifications
 
-- Pacific Island language interfaces
-- Dialect variations recognition
-- Oral tradition integration through audio interfaces
-- Cultural terminology preservation
+**Technical Adaptation:**
+- Low-bandwidth optimizations
+- Offline functionality for remote areas
+- Solar-powered node options
+- Satellite connectivity integration
+- Mesh network capabilities
+- Mobile-first design for island contexts
 
-### 8.3 Content Adaptation
+### 8.2 Regional Hub Model
 
-- Island-specific categories and classifications
-- Local measurement systems and references
-- Cultural context explanations for external users
-- Traditional knowledge framing appropriate to each island
+The platform implements a federated regional approach:
 
-### 8.4 Technical Considerations
+**Hub Structure:**
+- Island cluster coordination
+- Local distribution center networks
+- Regional governance adaptations
+- Inter-island logistics management
+- Cultural verification specialization
+- Technical infrastructure sharing
 
-- Bandwidth-efficient designs for limited connectivity areas
-- Offline functionality for intermittent access regions
-- Island-specific node operator optimizations
-- Climate resilient infrastructure considerations
-
-### 8.5 Implementation Approach
-
-- Local community design workshops
-- Elder consultation on appropriate representations
-- Iterative testing with island communities
-- Continuous feedback incorporation
+**Cross-Hub Integration:**
+- Standardized protocols for inter-hub communication
+- Shared quality standards
+- Cross-marketplace listings
+- Cultural exchange programs
+- Technical resource sharing
+- Joint educational initiatives
 
 ---
 
 ## 9. TECHNICAL IMPLEMENTATION
 
-### 9.1 Linea zkEVM Integration
+### 9.1 Arbitrum Integration
 
-The PASIFIKA platform leverages Linea's zkEVM Layer-2 solution for several key advantages:
+The platform leverages Arbitrum's Layer-2 scaling solution:
 
 **Technical Benefits:**
-- EVM compatibility for broad developer tooling access
-- Zero-knowledge proof security with Ethereum mainnet guarantees
-- Low transaction costs enabling microtransactions
-- High throughput for marketplace scalability
-- Composability with existing Ethereum ecosystem
+- Low transaction fees
+- High throughput capacity
+- Ethereum security inheritance
+- Smart contract compatibility
+- NFT standard support
+- Cross-chain interoperability
 
 **Implementation Details:**
-- PSF token deployed as ERC-20 with governance extensions
-- Dynamic NFTs using ERC-721 with metadata extensions
-- Marketplace smart contracts for listing, bidding, and fulfillment
-- Governance contracts handling proposals and voting
-- Treasury management through multi-signature contracts
+- Custom Arbitrum token adapter
+- Fee structure implementation
+- Treasury contract integration
+- Marketplace contract deployment
+- Membership system implementation
+- Node operator registration and verification
 
 ### 9.2 Node Operator Architecture
 
-Node operators form the distributed computational backbone of the network:
+The physical infrastructure relies on a network of node operators:
 
-**Hardware Requirements:**
-- Standard personal computers (minimum specifications published)
-- Internet connectivity (intermittent connection supported)
-- Optional renewable energy integration
+**Node Requirements:**
+- Minimum hardware specifications
+- Network connectivity requirements
+- Power redundancy recommendations
+- Security protocols
+- Verification procedures
+- Staking requirements
+- Operational uptime commitments
 
-**Software Components:**
-- PASIFIKA node client (open source)
-- Data validation modules
-- Oracle integration connectors
-- Marketplace interfaces
-- Governance participation tools
+**Node Functions:**
+- Transaction validation
+- Data collection and processing
+- Physical verification coordination
+- Local support provision
+- Technical education
+- Network maintenance
+- Community representation
 
-**Incentive Structure:**
-- Base rewards for network participation
-- Additional rewards for data validation
-- Fee sharing from marketplace transactions
-- Governance rights proportional to contribution
+### 9.3 Smart Contract Structure
 
-### 9.3 AI Agent Implementation
+The platform employs a comprehensive smart contract architecture:
 
-The TachyonX-aligned AI agent infrastructure provides:
+**Core Contracts:**
+- PasifikaTreasury: Financial management and fund allocation
+- PasifikaMembership: Tier management and profit-sharing
+- PasifikaMoneyTransfer: Transaction handling with fee tiers
+- PasifikaNFT: NFT minting and management
+- PasifikaMarketplace: Listing and sales functionality
+- ArbitrumTokenAdapter: ETH handling with tier functionality
+- PasifikaArbitrumNode: Node operator management
 
-**Agent Types:**
-- Marketplace matching agents connecting buyers with relevant offerings
-- Curation agents organizing and highlighting quality content
-- Verification agents assisting human validators
-- Translation agents supporting cross-cultural communication
-- Intent fulfillment agents understanding and executing user requests
-
-**Technical Framework:**
-- On-chain agent coordination protocol
-- Zero-knowledge privacy preservation
-- Intent-based interface design
-- Reputation systems for agent performance
-- Community governance of agent parameters
-
-### 9.4 Chainlink Oracle Integration
-
-Chainlink provides critical off-chain data connections:
-
-**Oracle Functions:**
-- PSF token price feeds
-- Weather and environmental data for agricultural NFTs
-- Supply chain status updates
-- External marketplace price comparisons
-- Cross-chain asset bridges
-
-**Implementation Approach:**
-- Dedicated Chainlink node for Pacific Islands data
-- Custom adapter development for regional data sources
-- Multiple node consensus for critical data points
-- Zero-knowledge proofs for sensitive data validation
+**Technical Features:**
+- OpenZeppelin v5.3.0 security libraries
+- Role-based access control
+- Multi-signature requirements for treasury
+- Pausable functionality for emergency situations
+- Reentrancy protection
+- Fee collection mechanisms
+- Profit distribution system
 
 ---
 
 ## 10. DEVELOPMENT ROADMAP
 
-### 10.1 Technical Development Timeline
+### 10.1 Phase 1: Foundation (Q2-Q3 2025)
+- Arbitrum smart contract deployment
+- Core marketplace functionality
+- Basic membership system
+- Initial island hubs (Fiji, Samoa, Tonga)
+- Node operator recruitment and training
+- Cultural protection framework implementation
 
-**Q2 2025: Foundation Phase**
-- PASIFIKA token smart contract development
-- Initial marketplace prototype on Linea zkEVM
-- Core smart contract development and security audits
-- Node operator software development
-
-**Q3 2025: Alpha Phase**
-- Private token distribution
-- AI agent integration
-- Localization framework design based on island of origin
-- Limited marketplace testing with selected providers
-- Initial node operator network deployment
-
-**Q4 2025: Launch Phase**
-- Token Generation Event (TGE)
-- Governance system activation
-- Implementation of island-specific interfaces
-- Full marketplace feature release
-- Public node operator onboarding
-
-**Q1 2026: Expansion Phase**
-- Mainnet marketplace scaling
-- Full PSF integration across all features
-- Chainlink Oracle integration
-- Regional language support implementation
-- Distribution hub pilot programs
-
-**Q2 2026: Growth Phase**
-- International marketplace expansion
-- Token staking program launch
-- Enhanced cultural localization features
-- Craft documentation center establishment
-- Cross-chain interoperability development
-
-**Q3 2026: Maturity Phase**
-- Enhanced metadata systems
-- Cultural protection frameworks
-- Island-specific node operator infrastructure
-- Advanced AI agent capabilities
-- Expanded validator network
-
-**Q4 2026: Evolution Phase**
-- Advanced token utility features
-- Developer ecosystem expansion
-- Complete Pacific Islands localization support
-- Enhanced governance mechanisms
-- Long-term sustainability programs
-
-### 10.2 Community Development Timeline
-
-Parallel to technical development, community initiatives will follow this timeline:
-
-**Q2-Q3 2025:**
-- Community education workshops
-- Node operator training programs
-- Artisan digitization pilot programs
-- Cultural authority consultation framework
-
-**Q4 2025-Q1 2026:**
-- Validator training and certification
+### 10.2 Phase 2: Expansion (Q4 2025-Q1 2026)
+- Additional island integration (Solomon Islands, Vanuatu, PNG)
+- Enhanced NFT functionality
+- Advanced verification systems
+- Cross-island logistics optimization
 - Content creator onboarding
 - Regional distribution hub establishment
 - Cultural protection policy implementation
 
-**Q2-Q3 2026:**
+### 10.3 Phase 3: Maturity (Q2-Q3 2026)
 - Cross-island marketplace networks
 - Expanded artisan support programs
 - Agricultural producer integration
 - Educational institution partnerships
+- Advanced governance implementation
+- International market expansion
+- Enhanced technical infrastructure
 
-**Q4 2026-Beyond:**
+### 10.4 Phase 4: Sustainability (Q4 2026-Beyond)
 - Self-sustaining regional networks
 - Cultural heritage preservation programs
 - Expanded international partnerships
 - Next-generation technical training
+- Advanced agricultural integration
+- Climate resilience programs
+- Comprehensive impact assessment
 
 ---
 
@@ -756,19 +761,14 @@ Our advisory board includes thought leaders from blockchain technology, cultural
 
 ### 11.3 Partners
 
-The Pasifika Web3 Tech Hub is applying to the TachyonX accelerator program, which would provide:
-- $250,000 initial investment
-- Technical mentorship from Consensys Mesh network
-- Direct support from Linea blockchain team
-- AI infrastructure development guidance
-- Access to a network of 5,000+ founders and builders
-
-Additional strategic partnerships are being developed with:
+The platform is developing strategic partnerships with:
 - Pacific Island cultural institutions
 - Regional agricultural cooperatives
 - Sustainable development organizations
 - Academic research institutions
 - Technical education providers
+- Blockchain infrastructure partners
+- Distribution and logistics providers
 
 ---
 
@@ -778,8 +778,8 @@ Additional strategic partnerships are being developed with:
 
 The platform generates revenue through multiple streams:
 
-- Marketplace transaction fees (5% in PSF)
-- Validator fees (2% in PSF)
+- Marketplace transaction fees (0.25% - 1%)
+- Validator fees (2%)
 - Premium service offerings
 - Authentication services for traditional items
 - Data access fees (for commercial use)
@@ -794,17 +794,17 @@ Treasury allocation follows this distribution model:
 - 10% to artisan support
 - 10% to agricultural support
 - 10% to technology development
-- 30% to token holders through staking rewards
+- 30% to annual profit-sharing with members
 
 ### 12.3 Five-Year Projections
 
-[Detailed financial projections to be added, including marketplace growth, token economics, and infrastructure development costs]
+[Detailed financial projections to be added, including marketplace growth, infrastructure development costs, and profit-sharing estimates]
 
 ---
 
 ## 13. CONCLUSION
 
-The Pasifika Web3 Tech Hub represents a breakthrough approach to blockchain-enabled economic development that centers Pacific Island communities, cultures, and context. By integrating physical infrastructure with digital capabilities through our PASIFIKA token-powered DePIN model, we create a self-reinforcing ecosystem that generates real value while preserving cultural heritage.
+The Pasifika Web3 Tech Hub represents a breakthrough approach to blockchain-enabled economic development that centers Pacific Island communities, cultures, and context. By integrating physical infrastructure with digital capabilities through our membership-based model on Arbitrum, we create a self-reinforcing ecosystem that generates real value while preserving cultural heritage.
 
 Our approach is distinguished by several key innovations:
 
@@ -812,9 +812,9 @@ Our approach is distinguished by several key innovations:
 
 2. **Integrated Physical-Digital Infrastructure:** Seamless connection between computational resources, physical distribution, and digital marketplace
 
-3. **Community Governance:** Token-based governance with special provisions ensuring Pacific Islander representation and leadership
+3. **Community Governance:** Transparent decision-making with special provisions ensuring Pacific Islander representation and leadership
 
-4. **AI-Native Operations:** TachyonX-aligned autonomous systems enhancing market efficiency and user experience
+4. **Profit-Sharing Model:** Implementation of the principle "If we take care of our own, they will take care of us" through annual distributions
 
 5. **Island-Specific Localization:** Comprehensive adaptation for each island's unique cultural context and infrastructure needs
 
@@ -826,10 +826,10 @@ Through these innovations, the Pasifika Web3 Tech Hub aims to create a model for
 
 ### Appendix A: Technical Specifications
 ### Appendix B: Governance Constitution
-### Appendix C: Tokenomics Model
+### Appendix C: Financial Model
 
 ---
 
 *This whitepaper outlines the vision and implementation plan for the Pasifika Web3 Tech Hub as of May 2025. The project is under active development, and some details may evolve as the platform matures.*
 
-*Building a decentralized future rooted in Pacific traditions, powered by the PASIFIKA (PSF) token*
+*Building a decentralized future rooted in Pacific traditions*
