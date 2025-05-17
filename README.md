@@ -759,7 +759,7 @@ The platform employs a comprehensive smart contract architecture:
 - Arbitrum smart contract deployment
 - Core marketplace functionality
 - Basic membership system
-- Initial island hubs (Tonga, Fiji, Samoa, Tuvalu, Federated States of Micronesia (FSM) and New Zealand)
+- Initial island hubs (Tonga, Fiji, Samoa, Tuvalu, Federated States of Micronesia (FSM), Honolulu (Hawaii), and New Zealand)
 - Node operator recruitment and training
 - Cultural protection framework implementation
 
