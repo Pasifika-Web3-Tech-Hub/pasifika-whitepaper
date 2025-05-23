@@ -868,14 +868,6 @@ Through these innovations, the Pasifika Web3 Tech Hub aims to create a model for
 
 ---
 
-## APPENDICES
-
-### Appendix A: Technical Specifications
-### Appendix B: Governance Constitution
-### Appendix C: Financial Model
-
----
-
 *This whitepaper outlines the vision and implementation plan for the Pasifika Web3 Tech Hub as of May 2025. The project is under active development, and some details may evolve as the platform matures. On the same token, there is a great chance we will go live on the main-net sooner rather than later *
 
 *Building a decentralized future rooted in Pacific traditions*
