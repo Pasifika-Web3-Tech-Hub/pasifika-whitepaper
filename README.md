@@ -6,7 +6,7 @@
 
 ## The First Exchange for Pacific Island Communities with Cross-Chain Interoperability
 
-**Version 2.1 | May 2025**
+**Version 2.2 | June 2025**
 
 ---
 
@@ -181,7 +181,7 @@ The Pasifika Web3 Tech Hub differentiates through:
 
 ## 3. PLATFORM ARCHITECTURE
 
-The platform integrates physical and digital infrastructure to create a comprehensive ecosystem:
+The platform integrates physical and digital infrastructure to create a comprehensive ecosystem, enhanced with robust price oracles and cross-chain capabilities:
 
 ### 3.1 Physical Infrastructure
 
@@ -239,11 +239,12 @@ The platform integrates physical and digital infrastructure to create a comprehe
 - Extensible metadata fields
 
 #### 3.2.4 External Data Sources
-- Price feeds for stable transaction values
+- Chainlink price feeds for secure and reliable token valuations
+- Optimized decimal handling for safe token-to-USD and USD-to-token conversions
 - Real-time data feeds to update NFT states
 - External data verification from node operators
 - Weather and climate data for agricultural applications
-- Cross-chain bridge functionality
+- Cross-chain bridge functionality with arithmetic safety measures
 
 #### 3.2.5 Decentralized Marketplace
 - Web and mobile interfaces
@@ -263,15 +264,19 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 ### 3.3 Pasifika Exchange
 
-The Pasifika Exchange represents a cornerstone of our platform infrastructure as the first decentralized exchange designed specifically for Pacific Island communities. This groundbreaking financial component will:
+The Pasifika Exchange represents a cornerstone of our platform infrastructure as the first decentralized exchange designed specifically for Pacific Island communities. This groundbreaking financial component offers:
 
-- Enable secure trading of digital assets with low fees and cross-island interoperability
-- Facilitate remittances and cross-border transfers between islands
-- Provide liquidity for local asset trading and community tokens
-- Implement specialized order matching for low-volume but culturally significant assets
-- Support fiat on/off ramps with localized payment methods
-- Ensure regulatory compliance while preserving user privacy
-- Feature an intuitive interface optimized for island connectivity constraints
+- Secure trading of digital assets with low fees and cross-island interoperability
+- Chainlink price feed integration for reliable, tamper-proof token valuations
+- Advanced decimal handling that prevents arithmetic overflow and underflow
+- Optimized token conversion mechanics for 18-decimal tokens and 8-decimal price feeds
+- Cross-chain bridge functionality with Arbitrum integration (Sepolia testnet, Chain ID 421614)
+- Facilitation of remittances and cross-border transfers between islands
+- Liquidity provision for local asset trading and community tokens
+- Specialized order matching for low-volume but culturally significant assets
+- Support for fiat on/off ramps with localized payment methods
+- Regulatory compliance while preserving user privacy
+- Intuitive interface optimized for island connectivity constraints
 
 The Exchange will be seamlessly integrated with both the physical and digital infrastructure components, with node operators helping to secure the exchange's transactions and local distribution hubs potentially serving as fiat access points.
 
@@ -737,6 +742,8 @@ The platform employs a comprehensive smart contract architecture:
 - PasifikaTreasury: Financial management and fund allocation
 - PasifikaMembership: Tier management and profit-sharing
 - PasifikaMoneyTransfer: Transaction handling with fee tiers
+- PasifikaPriceFeed: Token price valuation using Chainlink oracles with safe decimal handling
+- PasifikaCrossChainBridge: Cross-chain asset transfer with price conversion
 - PasifikaNFT: NFT minting and management
 - PasifikaMarketplace: Listing and sales functionality
 - ArbitrumTokenAdapter: ETH handling with tier functionality
@@ -744,21 +751,29 @@ The platform employs a comprehensive smart contract architecture:
 
 **Technical Features:**
 - OpenZeppelin v5.3.0 security libraries
-- Role-based access control
+- Role-based access control with Ownable pattern
+- Chainlink AggregatorV3Interface integration
+- Safe decimal handling for token-to-USD and USD-to-token conversions
+- Price input validation to prevent negative price attacks
+- Arithmetic overflow/underflow protection
+- Efficient scaling for token amounts (18 decimals) and price feeds (8 decimals)
 - Multi-signature requirements for treasury
 - Pausable functionality for emergency situations
 - Reentrancy protection
 - Fee collection mechanisms
 - Profit distribution system
+- Continuous integration with automated testing and verification
 
 ---
 
 ## 10. DEVELOPMENT ROADMAP
 
 ### 10.1 Phase 1: Foundation (Q2-Q3 2025)
-- Arbitrum smart contract deployment
-- Core marketplace functionality
-- Basic membership system
+- Arbitrum smart contract deployment (Completed: Arbitrum Sepolia testnet)
+- Chainlink price feed integration with secure decimal handling (Completed)
+- Cross-chain bridge functionality with arithmetic safety (Completed)
+- Core marketplace functionality (In Progress)
+- Basic membership system (In Progress)
 - Initial island hubs (Tonga, Fiji, Samoa, Tuvalu, Federated States of Micronesia (FSM), Honolulu (Hawaii), and New Zealand)
 - Node operator recruitment and training
 - Cultural protection framework implementation
