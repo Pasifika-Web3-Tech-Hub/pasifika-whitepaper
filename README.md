@@ -238,15 +238,26 @@ The platform integrates physical and digital infrastructure to create a comprehe
 - Quality verification records
 - Extensible metadata fields
 
-#### 3.2.4 External Data Sources
-- Chainlink price feeds for secure and reliable token valuations
+#### 3.2.4 Oracle Systems
+
+- Chainlink price feeds for reliable token valuations in USD
 - Optimized decimal handling for safe token-to-USD and USD-to-token conversions
 - Real-time data feeds to update NFT states
 - External data verification from node operators
 - Weather and climate data for agricultural applications
 - Cross-chain bridge functionality with arithmetic safety measures
+- Payment verification oracles for fiat-to-USDC conversions via multiple payment processors
 
-#### 3.2.5 Decentralized Marketplace
+#### 3.2.5 Fiat Payment Bridge
+
+- Multi-processor payment system supporting Circle and Stripe integrations
+- Chainlink oracle-based payment verification for off-chain fiat transactions
+- Secure on-chain USDC settlement through PasifikaPaymentGateway
+- Support for multiple Pacific currencies (FJD, USD, NZD) with automatic conversion
+- Transparent fee structure with treasury collection
+- Event-driven architecture for payment status tracking
+
+#### 3.2.6 Decentralized Marketplace
 - Web and mobile interfaces
 - Cultural context presentation
 - Producer and artisan profiles
@@ -690,11 +701,11 @@ The platform implements a federated regional approach:
 
 ---
 
-## 10. TECHNICAL IMPLEMENTATION
+## 9. TECHNICAL IMPLEMENTATION
 
-### 10.1 Multi-Network Integration
+### 9.1 Multi-Network Integration
 
-The platform leverages Arbitrum's Layer-2 scaling solution:
+The platform leverages multiple blockchain networks for cross-chain interoperability:
 
 **Technical Benefits:**
 - Low transaction fees
@@ -712,7 +723,35 @@ The platform leverages Arbitrum's Layer-2 scaling solution:
 - Membership system implementation
 - Node operator registration and verification
 
-### 9.2 Node Operator Architecture
+### 9.2 Fiat Payment Bridge Implementation
+
+The platform implements a robust fiat-to-crypto payment system through the PasifikaFiatBridge contract:
+
+**Multi-Processor Architecture:**
+- Support for multiple payment processors (Circle and Stripe) with integrated verification
+- Processor-specific Chainlink job IDs for off-chain payment verification
+- Extensible design to add new payment processors as needed
+- Common interface for consistent payment handling regardless of processor
+
+**Payment Flow Mechanics:**
+- Off-chain fiat payment initiation with reference code generation
+- On-chain payment recording with pending payment ID
+- Chainlink oracle verification of payment status
+- USDC settlement through PasifikaPaymentGateway upon verification
+- Fee collection and treasury management
+
+**Technical Security Features:**
+- OpenZeppelin Ownable and ReentrancyGuard implementations
+- Robust error handling and payment status verification
+- Event-driven architecture for payment tracking
+- Secure token approvals and transfers
+
+**Currency Support:**
+- Multiple Pacific currencies (FJD, USD, NZD)
+- Chainlink price feeds for accurate exchange rates
+- Built-in decimal handling for safe conversions
+
+### 9.3 Node Operator Architecture
 
 The physical infrastructure relies on a network of node operators:
 
@@ -734,7 +773,7 @@ The physical infrastructure relies on a network of node operators:
 - Network maintenance
 - Community representation
 
-### 9.3 Smart Contract Structure
+### 9.4 Smart Contract Structure
 
 The platform employs a comprehensive smart contract architecture:
 
