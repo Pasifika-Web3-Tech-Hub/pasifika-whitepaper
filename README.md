@@ -86,7 +86,7 @@ The Pasifika Web3 Tech Hub envisions a decentralized digital economy that embodi
 
 ### 1.3 Mission & Values
 
-**Mission:** To create a decentralized marketplace and infrastructure network that empowers Pacific Islanders to share, monetize, and access data, digital content, traditional artifacts, handicrafts, and local agricultural produce in a fair, transparent, and community-governed environment.
+**Mission:** To create a decentralized marketplace and infrastructure network that empowers Pacific Islanders to share, monetize, and access data, digital content, traditional artifacts, handicrafts, and local agricultural produce in a fair, transparent, and community governed environment.
 
 **Core Values:**
 - Reciprocity ("If we take care of our own, they will take care of us")
