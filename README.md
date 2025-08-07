@@ -1,10 +1,10 @@
-# PACIFIC VALUES IN DIGITAL FORM: PASIFIKA BITCOIN TECH HUB WHITEPAPER
+# PACIFIC VALUES IN DIGITAL FORM: PASIFIKA WEB3 TECH HUB WHITEPAPER
 
 <p align="center">
  <img width="1000" src="/pasifika.png">
 </p>
 
-## The First Bitcoin & Lightning Network Exchange for Pacific Island Communities
+## Web3 Market Place Powered by Bitcoin, Layer 2 Stacks, and Lightning Network for Pacific Island Communities
 
 **Version 1.0 | August 2025**
 
@@ -12,9 +12,9 @@
 
 ## EXECUTIVE SUMMARY
 
-At the heart of Pasifika Bitcoin Tech Hub is a philosophical principle that has guided Pacific Island communities for generations: **"If we take care of our own, they will take care of us."** This powerful concept drives our groundbreaking Pasifika Exchange designed specifically for Pacific Island communities. Built on Bitcoin and the Lightning Network, with RSK for smart contract functionality and Stacks with Clarity for enhanced security, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders through fast, low-cost transactions.
+At the heart of Pasifika Web3 Tech Hub is a philosophical principle that has guided Pacific Island communities for generations: **"If we take care of our own, they will take care of us."** This powerful concept drives our groundbreaking Web3 Market Place designed specifically for Pacific Island communities. Built on Bitcoin as the foundation, with Layer 2 Stacks blockchain for smart contracts and Lightning Network for instant payments, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders through fast, low-cost transactions.
 
-This whitepaper outlines our comprehensive approach to building the first Bitcoin and Lightning Network Exchange for Pacific Islands that connects local businesses, traders, community members, and global markets in an ecosystem that spans both digital and physical infrastructure. By embracing Bitcoin as our foundational layer and leveraging the Lightning Network for fast, low-cost transactions, we create a resilient system that embodies the Pacific principle of reciprocity while providing technical advantages and financial sovereignty to our communities.
+This whitepaper outlines our comprehensive approach to building a Web3 Market Place for Pacific Islands that connects local businesses, traders, community members, and global markets in an ecosystem that spans both digital and physical infrastructure. By embracing Bitcoin as our foundational layer, leveraging Layer 2 Stacks blockchain for smart contracts, and utilizing the Lightning Network for fast, low-cost transactions, we create a resilient system that embodies the Pacific principle of reciprocity while providing technical advantages and financial sovereignty to our communities.
 
 The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific Island communities:
 
@@ -35,7 +35,7 @@ Our solution implements the Pasifika Bitcoin Exchange with integrated physical i
 3. Platform Architecture
    - Physical Infrastructure
    - Digital Infrastructure
-   - Pasifika Exchange Technology
+   - Web3 Market Place Technology
    - Bitcoin-Secured Integration Model
 4. Pacific Values in Digital Form
    - The Philosophy of Reciprocity
@@ -181,7 +181,7 @@ The Pasifika Web3 Tech Hub differentiates through:
 
 ## 3. PLATFORM ARCHITECTURE
 
-The platform integrates physical and digital infrastructure to create a comprehensive ecosystem, enhanced with robust price oracles and Bitcoin-secured capabilities:
+The platform integrates physical and digital infrastructure to create a comprehensive ecosystem, enhanced with Bitcoin-secured capabilities:
 
 ### 3.1 Physical Infrastructure
 
@@ -257,14 +257,14 @@ The platform integrates physical and digital infrastructure to create a comprehe
 - Metadata references
 - Resilient, censorship-resistant storage
 
-### 3.3 Pasifika Exchange
+### 3.3 Web3 Market Place
 
-The Pasifika Exchange represents a cornerstone of our platform infrastructure as the first decentralized exchange designed specifically for Pacific Island communities. This groundbreaking financial component offers:
+The Web3 Market Place represents a cornerstone of our platform infrastructure as a comprehensive marketplace designed specifically for Pacific Island communities with a focus on Bitcoin, Stacks blockchain with Clarity smart contracts, and Lightning Network. This groundbreaking financial component offers:
 
 - Secure trading of digital assets with low fees and cross-island compatibility
-- Secure price feed integration for reliable, tamper-proof token valuations
-- Advanced decimal handling that prevents arithmetic overflow and underflow
-- Optimized token conversion mechanics for 18-decimal tokens and 8-decimal price feeds
+- Secure price verification for reliable token valuations
+- Seamless liquidity bridging between Bitcoin-secured networks
+- Optimized token conversion mechanics for seamless trading
 - Bitcoin-secured bridge functionality with enhanced security measures
 - Facilitation of remittances and cross-border transfers between islands
 - Liquidity provision for local asset trading and community tokens
@@ -273,13 +273,13 @@ The Pasifika Exchange represents a cornerstone of our platform infrastructure as
 - Regulatory compliance while preserving user privacy
 - Intuitive interface optimized for island connectivity constraints
 
-The Exchange will be seamlessly integrated with both the physical and digital infrastructure components, with node operators helping to secure the exchange's transactions and local distribution hubs potentially serving as access points.
+The Web3 Market Place will be seamlessly integrated with both the physical and digital infrastructure components, with node operators helping to secure the exchange's transactions and local distribution hubs potentially serving as access points.
 
 ### 3.4 Integration Model
 
 The platform's unique strength comes from the seamless integration between physical and digital components:
 
-1. **Bitcoin-Secured Data Flow Integration:** Node operators collect and process data that flows through external oracles to update NFTs across Bitcoin-secured networks, creating a real-time connection between physical reality and digital representations with enhanced security.
+1. **Bitcoin-Secured Data Flow Integration:** Node operators collect and process data that flows through secure channels to update NFTs across Bitcoin-secured networks, creating a real-time connection between physical reality and digital representations with enhanced security.
 
 2. **Financial Flow Integration:** Digital marketplace transactions trigger physical fulfillment through distribution hubs, with verification feedback completing the cycle.
 
@@ -336,7 +336,7 @@ The platform employs a 3-tier system that rewards participation and contribution
 
 **Tier 1: Member**
 - 0.5% fee on all transactions (50% discount)
-- Requires membership payment of 0.0001 RBTC on RootStock or equivalent STX on Stacks
+- Requires membership payment of 0.0005 BTC or equivalent STX on Stacks
 - Full marketplace access
 - Profit-sharing eligibility
 - Community governance participation
@@ -426,7 +426,7 @@ The marketplace facilitates exchange of diverse assets and resources:
 
 **Financial Services & Exchange:**
 - Cross-island remittances
-- Digital asset trading via Pasifika Exchange
+- Digital asset trading via Web3 Market Place
 - Microloans and financing
 - Savings and investment products
 
@@ -709,7 +709,7 @@ The platform leverages Bitcoin-secured blockchain networks for enhanced security
 
 **Currency Support:**
 - Multiple Pacific currencies (FJD, USD, NZD)
-- Secure oracle price feeds for accurate exchange rates
+- Secure price verification for accurate exchange rates
 - Built-in decimal handling for safe conversions
 
 ### 10.3 Node Operator Architecture
@@ -865,7 +865,7 @@ Our approach is distinguished by several key innovations:
 
 1. **Pacific Values in Digital Form:** Built from the ground up on the principle of reciprocity that has guided island communities for generations
 
-2. **Bitcoin-Secured Infrastructure:** Strategic utilization of Bitcoin-secured networks including Stacks with Clarity smart contracts and RootStock's Bitcoin integration to provide enhanced security and resilience
+2. **Bitcoin-Secured Infrastructure:** Strategic utilization of Bitcoin-secured networks including Stacks with Clarity smart contracts to provide enhanced security and resilience
 
 3. **Integrated Physical-Digital Infrastructure:** Seamless connection between computational resources, physical distribution, and digital marketplace
 
