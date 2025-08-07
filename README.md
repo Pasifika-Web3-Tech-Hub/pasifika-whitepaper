@@ -1,20 +1,20 @@
-# PACIFIC VALUES IN DIGITAL FORM: PASIFIKA WEB3 TECH HUB WHITEPAPER
+# PACIFIC VALUES IN DIGITAL FORM: PASIFIKA BITCOIN TECH HUB WHITEPAPER
 
 <p align="center">
  <img width="1000" src="/pasifika.png">
 </p>
 
-## The First Exchange for Pacific Island Communities with Cross-Chain Interoperability
+## The First Bitcoin & Lightning Network Exchange for Pacific Island Communities
 
-**Version 2.2 | June 2025**
+**Version 1.0 | August 2025**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-At the heart of Pasifika Web3 Tech Hub is a philosophical principle that has guided Pacific Island communities for generations: **"If we take care of our own, they will take care of us."** This powerful concept drives our groundbreaking Pasifika Exchange designed specifically for Pacific Island communities. Built on a strategic blockchain interoperability approach leveraging Linea's zkEVM technology, RootStock's Bitcoin integration, and Arbitrum's optimistic rollups, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders through cross-chain trading functionality.
+At the heart of Pasifika Bitcoin Tech Hub is a philosophical principle that has guided Pacific Island communities for generations: **"If we take care of our own, they will take care of us."** This powerful concept drives our groundbreaking Pasifika Exchange designed specifically for Pacific Island communities. Built on Bitcoin and the Lightning Network, with RSK for smart contract functionality and Stacks with Clarity for enhanced security, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders through fast, low-cost transactions.
 
-This whitepaper outlines our comprehensive approach to building the first Exchange for Pacific Islands that connects local businesses, traders, community members, and global markets in an ecosystem that spans both digital and physical infrastructure. By embracing blockchain interoperability across multiple EVM Compatible networks, we create a resilient system that embodies the Pacific principle of reciprocity while providing technical advantages and seamless cross-chain trading capabilities.
+This whitepaper outlines our comprehensive approach to building the first Bitcoin and Lightning Network Exchange for Pacific Islands that connects local businesses, traders, community members, and global markets in an ecosystem that spans both digital and physical infrastructure. By embracing Bitcoin as our foundational layer and leveraging the Lightning Network for fast, low-cost transactions, we create a resilient system that embodies the Pacific principle of reciprocity while providing technical advantages and financial sovereignty to our communities.
 
 The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific Island communities:
 
@@ -24,7 +24,7 @@ The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific 
 - Limited technological infrastructure and digital inclusion
 - Need for sustainable economic development models
 
-Our solution implements the Pasifika Exchange with integrated physical infrastructure (node operators, local trading centers) and digital components (Linea, RootStock, and Arbitrum blockchains, exchange infrastructure, trading systems) that generates real value while preserving cultural integrity. This interoperability approach ensures we can seamlessly operate across multiple blockchain networks while maintaining our core values of reciprocity, community care, and shared prosperity.
+Our solution implements the Pasifika Bitcoin Exchange with integrated physical infrastructure (Lightning Network nodes, local trading centers) and digital components (Bitcoin, Lightning Network, and RSK for smart contracts) that generates real value while preserving cultural integrity. This Bitcoin-first approach ensures we can provide financial services that are secure, accessible, and aligned with our core values of reciprocity, community care, and shared prosperity, while leveraging the security and stability of the Bitcoin network.
 
 ---
 
@@ -36,10 +36,10 @@ Our solution implements the Pasifika Exchange with integrated physical infrastru
    - Physical Infrastructure
    - Digital Infrastructure
    - Pasifika Exchange Technology
-   - Cross-Chain Integration Model
+   - Bitcoin-Secured Integration Model
 4. Pacific Values in Digital Form
    - The Philosophy of Reciprocity
-   - Blockchain Interoperability Approach
+   - Bitcoin-Secured Infrastructure Approach
 5. Membership System
    - Tiered Structure
    - Benefits & Rights
@@ -50,7 +50,7 @@ Our solution implements the Pasifika Exchange with integrated physical infrastru
    - Quality Control & Validation
 7. Exchange Operations
    - Trading Mechanisms
-   - Cross-Chain Swaps
+   - Bitcoin-Secured Trading
    - Liquidity Management
 8. Cultural Protection Framework
    - Metadata Standards
@@ -58,7 +58,7 @@ Our solution implements the Pasifika Exchange with integrated physical infrastru
    - Intellectual Property Protection
 9. Localization Framework
 10. Technical Implementation
-    - Cross-Chain Interoperability
+    - Bitcoin-Secured Infrastructure
     - Node Operator Architecture
     - Smart Contract Structure
 11. Development Roadmap
@@ -106,11 +106,11 @@ The Pasifika Web3 Tech Hub envisions a decentralized digital economy that embodi
 
 ### 2.1 Current Market Landscape
 
-The intersection of DePIN (Decentralized Physical Infrastructure Networks) and cultural marketplaces represents an emerging opportunity with limited established competitors. Current solutions targeting Pacific Island communities include:
+The intersection of Bitcoin, Lightning Network, and cultural marketplaces represents an innovative approach with limited established competitors. Current solutions targeting Pacific Island communities include:
 
 - Traditional e-commerce platforms (limited catalog, high fees, cultural disconnect)
 - Cultural marketplaces (centralized, limited product range, high commissions)
-- Web3 marketplaces (not designed for Pacific contexts, limited physical infrastructure)
+- Digital marketplaces (not designed for Pacific contexts, limited physical infrastructure)
 - Data markets (exclude cultural components, not community-owned)
 
 ### 2.2 Market Size & Growth
@@ -181,16 +181,17 @@ The Pasifika Web3 Tech Hub differentiates through:
 
 ## 3. PLATFORM ARCHITECTURE
 
-The platform integrates physical and digital infrastructure to create a comprehensive ecosystem, enhanced with robust price oracles and cross-chain capabilities:
+The platform integrates physical and digital infrastructure to create a comprehensive ecosystem, enhanced with robust price oracles and Bitcoin-secured capabilities:
 
 ### 3.1 Physical Infrastructure
 
-#### 3.1.1 Node Operators
-- Distributed network of computers operated by community members
-- Perform computational tasks for the network
-- Monitor environmental conditions
-- Collect and process data
-- Update NFT states based on real-world conditions
+#### 3.1.1 Bitcoin & Lightning Network Infrastructure
+- Distributed network of Lightning Network nodes operated by community members
+- Instant, low-cost transactions with sub-cent fees (typically < $0.01)
+- Support for microtransactions as small as 1 satoshi (0.00000001 BTC)
+- Integration with popular Bitcoin wallets (BlueWallet, Phoenix, Breez, etc.)
+- Non-custodial solutions that ensure users maintain control of their funds
+- Watchtower integration for secure, always-on payment channels
 - Create verifiable provenance for agricultural products
 
 #### 3.1.2 Local Distribution Hubs
@@ -212,13 +213,13 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 ### 3.2 Digital Infrastructure
 
-#### 3.2.1 Arbitrum Layer-2
-- Ethereum Layer-2 scaling solution
-- Low gas fees and high transaction throughput
-- Smart contract capabilities for marketplace
-- NFT standards for digital assets
-- Security and transaction finality
-- Bridge to Ethereum mainnet
+#### 3.2.1 Stacks Blockchain
+- Smart contracts secured by Bitcoin's proof-of-work
+- Clarity programming language for predictable execution
+- Enhanced security with built-in safety features
+- STX token for platform operations and staking
+- Transparent, auditable smart contract execution
+- Direct integration with Bitcoin network
 
 #### 3.2.2 Marketplace Smart Contracts
 - Escrow and secure transactions
@@ -238,24 +239,7 @@ The platform integrates physical and digital infrastructure to create a comprehe
 - Quality verification records
 - Extensible metadata fields
 
-#### 3.2.4 Oracle Systems
 
-- Chainlink price feeds for reliable token valuations in USD
-- Optimized decimal handling for safe token-to-USD and USD-to-token conversions
-- Real-time data feeds to update NFT states
-- External data verification from node operators
-- Weather and climate data for agricultural applications
-- Cross-chain bridge functionality with arithmetic safety measures
-- Payment verification oracles for fiat-to-USDC conversions via multiple payment processors
-
-#### 3.2.5 Fiat Payment Bridge
-
-- Multi-processor payment system supporting Circle and Stripe integrations
-- Chainlink oracle-based payment verification for off-chain fiat transactions
-- Secure on-chain USDC settlement through PasifikaPaymentGateway
-- Support for multiple Pacific currencies (FJD, USD, NZD) with automatic conversion
-- Transparent fee structure with treasury collection
-- Event-driven architecture for payment status tracking
 
 #### 3.2.6 Decentralized Marketplace
 - Web and mobile interfaces
@@ -277,25 +261,25 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 The Pasifika Exchange represents a cornerstone of our platform infrastructure as the first decentralized exchange designed specifically for Pacific Island communities. This groundbreaking financial component offers:
 
-- Secure trading of digital assets with low fees and cross-island interoperability
-- Chainlink price feed integration for reliable, tamper-proof token valuations
+- Secure trading of digital assets with low fees and cross-island compatibility
+- Secure price feed integration for reliable, tamper-proof token valuations
 - Advanced decimal handling that prevents arithmetic overflow and underflow
 - Optimized token conversion mechanics for 18-decimal tokens and 8-decimal price feeds
-- Cross-chain bridge functionality with Arbitrum integration (Sepolia testnet, Chain ID 421614)
+- Bitcoin-secured bridge functionality with enhanced security measures
 - Facilitation of remittances and cross-border transfers between islands
 - Liquidity provision for local asset trading and community tokens
 - Specialized order matching for low-volume but culturally significant assets
-- Support for fiat on/off ramps with localized payment methods
+- Support for localized payment methods across all supported chains
 - Regulatory compliance while preserving user privacy
 - Intuitive interface optimized for island connectivity constraints
 
-The Exchange will be seamlessly integrated with both the physical and digital infrastructure components, with node operators helping to secure the exchange's transactions and local distribution hubs potentially serving as fiat access points.
+The Exchange will be seamlessly integrated with both the physical and digital infrastructure components, with node operators helping to secure the exchange's transactions and local distribution hubs potentially serving as access points.
 
 ### 3.4 Integration Model
 
 The platform's unique strength comes from the seamless integration between physical and digital components:
 
-1. **Cross-Chain Data Flow Integration:** Node operators collect and process data that flows through external oracles to update NFTs across multiple EVM Compatible networks, creating a real-time connection between physical reality and digital representations with full interoperability.
+1. **Bitcoin-Secured Data Flow Integration:** Node operators collect and process data that flows through external oracles to update NFTs across Bitcoin-secured networks, creating a real-time connection between physical reality and digital representations with enhanced security.
 
 2. **Financial Flow Integration:** Digital marketplace transactions trigger physical fulfillment through distribution hubs, with verification feedback completing the cycle.
 
@@ -320,33 +304,27 @@ The foundation of the Pasifika Web3 Tech Hub is built on the Pacific philosophic
 
 These principles are not merely cultural concepts but practical economic models that have sustained Pacific communities for centuries across vast oceanic distances and diverse island ecosystems.
 
-### 4.2 Multi-Network Approach
+### 4.2 Bitcoin-Secured Infrastructure Approach
 
-Our implementation of this philosophical foundation takes form in our multi-network blockchain strategy, leveraging the complementary strengths of three networks:
+Our implementation of this philosophical foundation takes form in our Bitcoin-secured infrastructure strategy, leveraging the complementary strengths of Bitcoin-secured networks:
 
-**Linea Network:**
-- zkEVM technology for low transaction costs and high throughput
-- Enhanced security through zero-knowledge proofs
-- Ideal for high-frequency marketplace transactions and microtransactions
-- Supports inclusive participation regardless of economic means
-
-**RootStock (RSK) Network:**
-- Bitcoin-backed security and stability
-- Smart contract functionality on the most established blockchain
-- Long-term value preservation aligned with intergenerational stewardship
+**Stacks Network:**
+- Smart contracts secured by Bitcoin's proof-of-work consensus
+- Clarity programming language for predictable and secure execution
+- Enhanced security with built-in safety features and formal verification
+- STX token for platform operations, staking, and governance
+- Transparent, auditable smart contract execution without hidden states
+- Direct integration with Bitcoin network for ultimate security
+- Support for complex decentralized applications on Bitcoin
+- Microblocks for faster transaction confirmation
+- Long-term value preservation aligned with Bitcoin's monetary policy
 - Integration with existing Bitcoin infrastructure in the Pacific region
 
-**Arbitrum Network:**
-- Optimistic rollups for enhanced scalability
-- Rich ecosystem of existing DeFi protocols and applications
-- Lower gas costs while maintaining security through EVM Compatible architecture
-- Provides flexibility for complex smart contract functionality
-
-This blockchain interoperability approach embodies the Pacific principle of adaptation and resilience, creating multiple pathways for cross-chain participation and engagement while maintaining a cohesive ecosystem.
+This Bitcoin-secured infrastructure approach embodies the Pacific principle of adaptation and resilience, creating multiple pathways for Bitcoin-secured participation and engagement while maintaining a cohesive ecosystem.
 
 ## 5. MEMBERSHIP SYSTEM
 
-### 4.1 Tiered Structure
+### 5.1 Tiered Structure
 
 The platform employs a 3-tier system that rewards participation and contribution:
 
@@ -358,7 +336,7 @@ The platform employs a 3-tier system that rewards participation and contribution
 
 **Tier 1: Member**
 - 0.5% fee on all transactions (50% discount)
-- Requires membership payment of 0.005 ETH (or 0.0001 RBTC on RootStock)
+- Requires membership payment of 0.0001 RBTC on RootStock or equivalent STX on Stacks
 - Full marketplace access
 - Profit-sharing eligibility
 - Community governance participation
@@ -366,12 +344,12 @@ The platform employs a 3-tier system that rewards participation and contribution
 **Tier 2: Node Operator**
 - 0.25% fee on all transactions (75% discount)
 - Requires operating a validator node
-- ETH or RBTC staking requirement (network-specific)
+- RBTC or STX staking requirement (network-specific)
 - Priority marketplace access
 - Enhanced profit-sharing eligibility
 - Advanced governance rights
 
-### 4.2 Benefits & Rights
+### 5.2 Benefits & Rights
 
 Membership provides a range of benefits designed to incentivize participation:
 
@@ -410,9 +388,9 @@ A key feature of the membership system is the Annual Profit-Sharing Event, which
 
 ---
 
-## 5. MARKETPLACE DESIGN
+## 6. MARKETPLACE DESIGN
 
-### 5.1 Categories & Offerings
+### 6.1 Categories & Offerings
 
 The marketplace facilitates exchange of diverse assets and resources:
 
@@ -460,7 +438,7 @@ The marketplace facilitates exchange of diverse assets and resources:
 - Tourism experiences
 - Educational workshops
 
-### 5.2 NFT Implementation
+### 6.2 NFT Implementation
 
 Digital assets on the marketplace use NFTs with rich metadata:
 
@@ -498,7 +476,7 @@ Digital assets on the marketplace use NFTs with rich metadata:
 - Feedback incorporation
 - Provider reputation updates
 
-### 5.3 Quality Control & Validation
+### 6.3 Quality Control & Validation
 
 A multi-layered validation system ensures marketplace quality:
 
@@ -525,9 +503,9 @@ A multi-layered validation system ensures marketplace quality:
 
 ---
 
-## 6. COMMUNITY GOVERNANCE
+## 7. COMMUNITY GOVERNANCE
 
-### 6.1 Decision-Making Process
+### 7.1 Decision-Making Process
 
 The platform employs a decentralized open source governance approach inspired by the Bitcoin development community:
 
@@ -540,7 +518,7 @@ The platform employs a decentralized open source governance approach inspired by
 6. Testing and verification
 7. Merge to main codebase when consensus is reached
 
-### 6.2 Working Groups
+### 7.2 Working Groups
 
 Specialized working groups focus on key platform areas:
 
@@ -569,7 +547,7 @@ Specialized working groups focus on key platform areas:
 - User-facing documentation
 - Integration support for builders
 
-### 6.3 Transparency Mechanisms
+### 7.3 Transparency Mechanisms
 
 Governance transparency is ensured through:
 
@@ -583,9 +561,9 @@ Governance transparency is ensured through:
 
 ---
 
-## 7. CULTURAL PROTECTION FRAMEWORK
+## 8. CULTURAL PROTECTION FRAMEWORK
 
-### 7.1 Metadata Standards
+### 8.1 Metadata Standards
 
 The platform employs comprehensive metadata standards to protect cultural context:
 
@@ -608,7 +586,7 @@ The platform employs comprehensive metadata standards to protect cultural contex
 - Elder verification option
 - Cultural advisor review process
 
-### 7.2 Verification Systems
+### 8.2 Verification Systems
 
 A robust cultural verification system ensures appropriate representation:
 
@@ -627,7 +605,7 @@ A robust cultural verification system ensures appropriate representation:
 5. On-chain verification record
 6. Periodic review and update
 
-### 7.3 Intellectual Property Protection
+### 8.3 Intellectual Property Protection
 
 The platform implements specialized protections for traditional knowledge:
 
@@ -650,9 +628,9 @@ The platform implements specialized protections for traditional knowledge:
 
 ---
 
-## 8. LOCALIZATION FRAMEWORK
+## 9. LOCALIZATION FRAMEWORK
 
-### 8.1 Island-Specific Adaptations
+### 9.1 Island-Specific Adaptations
 
 The platform respects the diverse cultures of the Pacific through:
 
@@ -679,7 +657,7 @@ The platform respects the diverse cultures of the Pacific through:
 - Mesh network capabilities
 - Mobile-first design for island contexts
 
-### 8.2 Regional Hub Model
+### 9.2 Regional Hub Model
 
 The platform implements a federated regional approach:
 
@@ -701,19 +679,19 @@ The platform implements a federated regional approach:
 
 ---
 
-## 9. TECHNICAL IMPLEMENTATION
+## 10. TECHNICAL IMPLEMENTATION
 
-### 9.1 Multi-Network Integration
+### 10.1 Multi-Network Integration
 
-The platform leverages multiple blockchain networks for cross-chain interoperability:
+The platform leverages Bitcoin-secured blockchain networks for enhanced security:
 
 **Technical Benefits:**
 - Low transaction fees
 - High throughput capacity
-- Ethereum security inheritance
+- Bitcoin security inheritance
 - Smart contract compatibility
 - NFT standard support
-- Cross-chain interoperability
+- Bitcoin-secured infrastructure
 
 **Implementation Details:**
 - Custom Arbitrum token adapter
@@ -723,23 +701,6 @@ The platform leverages multiple blockchain networks for cross-chain interoperabi
 - Membership system implementation
 - Node operator registration and verification
 
-### 9.2 Fiat Payment Bridge Implementation
-
-The platform implements a robust fiat-to-crypto payment system through the PasifikaFiatBridge contract:
-
-**Multi-Processor Architecture:**
-- Support for multiple payment processors (Circle and Stripe) with integrated verification
-- Processor-specific Chainlink job IDs for off-chain payment verification
-- Extensible design to add new payment processors as needed
-- Common interface for consistent payment handling regardless of processor
-
-**Payment Flow Mechanics:**
-- Off-chain fiat payment initiation with reference code generation
-- On-chain payment recording with pending payment ID
-- Chainlink oracle verification of payment status
-- USDC settlement through PasifikaPaymentGateway upon verification
-- Fee collection and treasury management
-
 **Technical Security Features:**
 - OpenZeppelin Ownable and ReentrancyGuard implementations
 - Robust error handling and payment status verification
@@ -748,10 +709,10 @@ The platform implements a robust fiat-to-crypto payment system through the Pasif
 
 **Currency Support:**
 - Multiple Pacific currencies (FJD, USD, NZD)
-- Chainlink price feeds for accurate exchange rates
+- Secure oracle price feeds for accurate exchange rates
 - Built-in decimal handling for safe conversions
 
-### 9.3 Node Operator Architecture
+### 10.3 Node Operator Architecture
 
 The physical infrastructure relies on a network of node operators:
 
@@ -773,7 +734,7 @@ The physical infrastructure relies on a network of node operators:
 - Network maintenance
 - Community representation
 
-### 9.4 Smart Contract Structure
+### 10.4 Smart Contract Structure
 
 The platform employs a comprehensive smart contract architecture:
 
@@ -781,43 +742,36 @@ The platform employs a comprehensive smart contract architecture:
 - PasifikaTreasury: Financial management and fund allocation
 - PasifikaMembership: Tier management and profit-sharing
 - PasifikaMoneyTransfer: Transaction handling with fee tiers
-- PasifikaPriceFeed: Token price valuation using Chainlink oracles with safe decimal handling
-- PasifikaCrossChainBridge: Cross-chain asset transfer with price conversion
 - PasifikaNFT: NFT minting and management
 - PasifikaMarketplace: Listing and sales functionality
-- ArbitrumTokenAdapter: ETH handling with tier functionality
-- PasifikaArbitrumNode: Node operator management
+- StacksTokenAdapter: STX handling with tier functionality
 
 **Technical Features:**
-- OpenZeppelin v5.3.0 security libraries
-- Role-based access control with Ownable pattern
-- Chainlink AggregatorV3Interface integration
-- Safe decimal handling for token-to-USD and USD-to-token conversions
-- Price input validation to prevent negative price attacks
-- Arithmetic overflow/underflow protection
-- Efficient scaling for token amounts (18 decimals) and price feeds (8 decimals)
-- Multi-signature requirements for treasury
-- Pausable functionality for emergency situations
-- Reentrancy protection
-- Fee collection mechanisms
-- Profit distribution system
-- Continuous integration with automated testing and verification
+- Clarity smart contract language for predictable execution
+- Built-in safety features preventing runtime errors
+- Transparent and auditable contract logic
+- Bitcoin-secured consensus through Stacks blockchain
+- STX token integration for platform operations
+- Immutable contract deployment with upgrade mechanisms
+- Post-condition assertions for transaction validation
+- Native Bitcoin integration through Stacks
+- Microblock support for faster transaction confirmation
+- Fee collection mechanisms in STX
+- Profit distribution system secured by Bitcoin
+- Comprehensive testing with Clarinet development environment
 
 ---
 
-## 10. DEVELOPMENT ROADMAP
+## 11. DEVELOPMENT ROADMAP
 
-### 10.1 Phase 1: Foundation (Q2-Q3 2025)
-- Arbitrum smart contract deployment (Completed: Arbitrum Sepolia testnet)
-- Chainlink price feed integration with secure decimal handling (Completed)
-- Cross-chain bridge functionality with arithmetic safety (Completed)
+### 11.1 Phase 1: Foundation (Q2-Q3 2025)
 - Core marketplace functionality (In Progress)
 - Basic membership system (In Progress)
 - Initial island hubs (Tonga, Fiji, Samoa, Tuvalu, Federated States of Micronesia (FSM), Honolulu (Hawaii), and New Zealand)
 - Node operator recruitment and training
 - Cultural protection framework implementation
 
-### 10.2 Phase 2: Expansion (Q4 2025-Q1 2026)
+### 11.2 Phase 2: Expansion (Q4 2025-Q1 2026)
 - Additional island integration (Solomon Islands, Vanuatu, PNG)
 - Enhanced NFT functionality
 - Advanced verification systems
@@ -826,7 +780,7 @@ The platform employs a comprehensive smart contract architecture:
 - Regional distribution hub establishment
 - Cultural protection policy implementation
 
-### 10.3 Phase 3: Maturity (Q2-Q3 2026)
+### 11.3 Phase 3: Maturity (Q2-Q3 2026)
 - Cross-island marketplace networks
 - Expanded artisan support programs
 - Agricultural producer integration
@@ -835,7 +789,7 @@ The platform employs a comprehensive smart contract architecture:
 - International market expansion
 - Enhanced technical infrastructure
 
-### 10.4 Phase 4: Sustainability (Q4 2026-Beyond)
+### 11.4 Phase 4: Sustainability (Q4 2026-Beyond)
 - Self-sustaining regional networks
 - Cultural heritage preservation programs
 - Expanded international partnerships
@@ -846,17 +800,21 @@ The platform employs a comprehensive smart contract architecture:
 
 ---
 
-## 11. TEAM & PARTNERS
+## 12. TEAM & PARTNERS
 
-### 11.1 Core Team
+### 12.1 Core Team
 
-The Pasifika Web3 Tech Hub is led by a diverse team combining blockchain expertise with deep Pacific Island cultural understanding. [Team details to be added]
+The Pasifika Web3 Tech Hub is led by a diverse team combining blockchain expertise with deep Pacific Island cultural understanding. 
 
-### 11.2 Advisors
+https://pasifika.xyz/our-story
 
-Our advisory board includes thought leaders from blockchain technology, cultural preservation, sustainable development, and Pacific Island communities. [Advisor details to be added]
+### 12.2 Advisors
 
-### 11.3 Partners
+Our advisory board includes thought leaders from blockchain technology, cultural preservation, sustainable development, and Pacific Island communities. 
+
+https://pasifika.xyz/our-story
+
+### 12.3 Partners
 
 The platform is developing strategic partnerships with:
 - Pacific Island cultural institutions
@@ -864,26 +822,25 @@ The platform is developing strategic partnerships with:
 - Sustainable development organizations
 - Academic research institutions
 - Technical education providers
-- Cross-chain infrastructure and bridge providers
-- EVM Compatible network developers
+- Bitcoin-secured infrastructure and bridge providers
+- Bitcoin-secured network developers
 - Distribution and logistics providers
 
 ---
 
-## 12. FINANCIAL PROJECTIONS
+## 13. FINANCIAL PROJECTIONS
 
-### 12.1 Revenue Model
+### 13.1 Revenue Model
 
 The platform generates revenue through multiple streams:
 
 - Marketplace transaction fees (0.25% - 1%)
-- Validator fees (2%)
 - Premium service offerings
 - Authentication services for traditional items
 - Data access fees (for commercial use)
 - Infrastructure-as-a-service offerings
 
-### 12.2 Treasury Allocation
+### 13.2 Treasury Allocation
 
 Treasury allocation follows this distribution model:
 
@@ -894,7 +851,7 @@ Treasury allocation follows this distribution model:
 - 10% to technology development
 - 30% to annual profit-sharing with members
 
-### 12.3 Five-Year Projections
+### 13.3 Five-Year Projections
 
 [Detailed financial projections to be added, including marketplace growth, infrastructure development costs, and profit-sharing estimates]
 
@@ -902,26 +859,26 @@ Treasury allocation follows this distribution model:
 
 ## 14. CONCLUSION
 
-The Pasifika Web3 Tech Hub represents a breakthrough approach to blockchain-enabled economic development that centers Pacific Island communities, cultures, and context. By integrating physical infrastructure with digital capabilities through our membership-based model with full interoperability across Linea, RootStock, Arbitrum, and other EVM Compatible networks, we create a self-reinforcing ecosystem that generates real value while preserving cultural heritage and embodying the Pacific principle that "If we take care of our own, they will take care of us."
+The Pasifika Bitcoin Tech Hub represents a breakthrough approach to Bitcoin-enabled economic development that centers Pacific Island communities, cultures, and context. By integrating physical infrastructure with the Bitcoin and Lightning Network through our membership-based model, we create a self-reinforcing ecosystem that generates real value while preserving cultural heritage and embodying the Pacific principle that "If we take care of our own, they will take care of us."
 
 Our approach is distinguished by several key innovations:
 
 1. **Pacific Values in Digital Form:** Built from the ground up on the principle of reciprocity that has guided island communities for generations
 
-2. **Blockchain Interoperability:** Strategic utilization of multiple EVM Compatible networks including Linea's zkEVM, RootStock's Bitcoin integration, and Arbitrum's optimistic rollups to provide cross-chain functionality and resilience
+2. **Bitcoin-Secured Infrastructure:** Strategic utilization of Bitcoin-secured networks including Stacks with Clarity smart contracts and RootStock's Bitcoin integration to provide enhanced security and resilience
 
 3. **Integrated Physical-Digital Infrastructure:** Seamless connection between computational resources, physical distribution, and digital marketplace
 
-4. **Exchange Trading Platform:** Seamless token swapping, liquidity provision, and cross-chain trading capabilities specifically designed for Pacific Island users
+4. **Exchange Trading Platform:** Seamless token swapping, liquidity provision, and Bitcoin-secured trading capabilities specifically designed for Pacific Island users
 
 5. **Equitable Profit-Sharing Model:** Implementation of the principle "If we take care of our own, they will take care of us" through annual distributions
 
 6. **Island-Specific Localization:** Comprehensive adaptation for each island's unique cultural context and infrastructure needs
 
-Through these innovations, the Pasifika Web3 Tech Hub aims to create a model for blockchain-enabled sustainable development that can be adapted for cultural communities worldwide while specifically serving the unique needs of Pacific Island nations. Our cross-chain interoperability approach ensures technical flexibility and adaptability across multiple blockchain ecosystems while our philosophical foundation ensures all development remains centered on the core Pacific values of reciprocity, community care, and shared prosperity.
+Through these innovations, the Pasifika Web3 Tech Hub aims to create a model for blockchain-enabled sustainable development that can be adapted for cultural communities worldwide while specifically serving the unique needs of Pacific Island nations. Our Bitcoin-secured infrastructure approach ensures technical flexibility and adaptability across Bitcoin-secured blockchain ecosystems while our philosophical foundation ensures all development remains centered on the core Pacific values of reciprocity, community care, and shared prosperity.
 
 ---
 
-*This whitepaper outlines the vision and implementation plan for the Pasifika Web3 Tech Hub as of May 2025. The project is under active development, and some details may evolve as the platform matures. On the same token, there is a great chance we will go live on the main-net sooner rather than later *
+*This whitepaper outlines the vision and implementation plan for the Pasifika Web3 Tech Hub as of August 2025. The project is under active development, and some details may evolve as the platform matures.*
 
 *Building a decentralized future rooted in Pacific traditions*
