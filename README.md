@@ -24,7 +24,7 @@ The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific 
 - Limited technological infrastructure and digital inclusion
 - Need for sustainable economic development models
 
-Our solution implements the Pasifika Bitcoin Exchange with integrated physical infrastructure (Lightning Network nodes, local trading centers) and digital components (Bitcoin, Lightning Network, and RSK for smart contracts) that generates real value while preserving cultural integrity. This Bitcoin-first approach ensures we can provide financial services that are secure, accessible, and aligned with our core values of reciprocity, community care, and shared prosperity, while leveraging the security and stability of the Bitcoin network.
+Our solution implements the Pasifika Bitcoin Exchange with integrated physical infrastructure (Lightning Network nodes, local trading centers) and digital components (Bitcoin, Lightning Network, and Stacks for smart contracts) that generates real value while preserving cultural integrity. This Bitcoin-first approach ensures we can provide financial services that are secure, accessible, and aligned with our core values of reciprocity, community care, and shared prosperity, while leveraging the security and stability of the Bitcoin network.
 
 ---
 
@@ -106,7 +106,7 @@ The Pasifika Web3 Tech Hub envisions a decentralized digital economy that embodi
 
 ### 2.1 Current Market Landscape
 
-The intersection of Bitcoin, Lightning Network, and cultural marketplaces represents an innovative approach with limited established competitors. Current solutions targeting Pacific Island communities include:
+The intersection of Bitcoin, Lightning Network, Stacks Clarity Smart Contracts and cultural marketplaces represents an innovative approach with limited established competitors. Current solutions targeting Pacific Island communities include:
 
 - Traditional e-commerce platforms (limited catalog, high fees, cultural disconnect)
 - Cultural marketplaces (centralized, limited product range, high commissions)
@@ -185,8 +185,8 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 ### 3.1 Physical Infrastructure
 
-#### 3.1.1 Bitcoin & Lightning Network Infrastructure
-- Distributed network of Lightning Network nodes operated by community members
+#### 3.1.1 Bitcoin & Stacks Clarity Smart Contracts & Lightning Network Infrastructure
+- Distributed network of Stacks Clarity Smart Contracts & Lightning Network nodes operated by community members
 - Instant, low-cost transactions with sub-cent fees (typically < $0.01)
 - Support for microtransactions as small as 1 satoshi (0.00000001 BTC)
 - Integration with popular Bitcoin wallets (BlueWallet, Phoenix, Breez, etc.)
@@ -330,24 +330,26 @@ The platform employs a 3-tier system that rewards participation and contribution
 
 **Tier 0: Guest**
 - Default tier for all users
-- 1% fee on all transactions
+- 1% transaction fee on marketplace activities
 - Basic marketplace access
 - No profit-sharing eligibility
+- No membership payment required
 
 **Tier 1: Member**
-- 0.5% fee on all transactions (50% discount)
-- Requires membership payment of 0.0005 BTC or equivalent STX on Stacks
-- Full marketplace access
+- 0.5% transaction fee (50% discount from Guest tier)
+- Requires membership payment of 200 STX
+- Full marketplace access with enhanced features
 - Profit-sharing eligibility
 - Community governance participation
+- Annual membership renewal required
 
 **Tier 2: Node Operator**
-- 0.25% fee on all transactions (75% discount)
-- Requires operating a validator node
-- RBTC or STX staking requirement (network-specific)
-- Priority marketplace access
+- 0.25% transaction fee (75% discount from Guest tier)
+- Free tier for technical contributors
+- Requires operating and maintaining network infrastructure
+- Priority marketplace access and advanced features
 - Enhanced profit-sharing eligibility
-- Advanced governance rights
+- Advanced governance rights and technical decision-making participation
 
 ### 5.2 Benefits & Rights
 
