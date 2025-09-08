@@ -4,17 +4,19 @@
  <img width="1000" src="/pasifika.png">
 </p>
 
-## Web3 Market Place Powered by Bitcoin, Layer 2 Stacks, and Lightning Network for Pacific Island Communities
+## Web3 Market Place Powered by Bitcoin and Lightning Network for Pacific Island Communities
 
-**Version 1.0 | August 2025**
+**Version 1.0 | September 2025**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-At the heart of Pasifika Web3 Tech Hub is a philosophical principle that has guided Pacific Island communities for generations: **"If we take care of our own, they will take care of us."** This powerful concept drives our groundbreaking Web3 Market Place designed specifically for Pacific Island communities. Built on Bitcoin as the foundation, with Layer 2 Stacks blockchain for smart contracts and Lightning Network for instant payments, this platform creates a sustainable economic ecosystem that preserves cultural heritage while creating new digital opportunities for islanders through fast, low-cost transactions.
+At the heart of Pasifika Web3 Tech Hub is a philosophical principle that has guided Pacific Island communities for generations: **"If we take care of our own, they will take care of us."** This powerful concept of reciprocity and community care isn't just a nice sentiment, it's the architectural blueprint for our entire system.
 
-This whitepaper outlines our comprehensive approach to building a Web3 Market Place for Pacific Islands that connects local businesses, traders, community members, and global markets in an ecosystem that spans both digital and physical infrastructure. By embracing Bitcoin as our foundational layer, leveraging Layer 2 Stacks blockchain for smart contracts, and utilizing the Lightning Network for fast, low-cost transactions, we create a resilient system that embodies the Pacific principle of reciprocity while providing technical advantages and financial sovereignty to our communities.
+Bitcoin and the Lightning Network, with their focus on decentralization, security, and instant transactions, provide the perfect technological expression of these Pacific values. When we examined various blockchain platforms, Bitcoin's proven security and Lightning Network's revolutionary payment capabilities aligned naturally with our cultural ethos.
+
+This whitepaper outlines our comprehensive approach to building a Web3 Market Place for Pacific Islands that connects local businesses, traders, community members, and global markets in an ecosystem that spans both digital and physical infrastructure. By embracing Bitcoin as our foundational layer and utilizing the Lightning Network for fast, low-cost transactions, we create a resilient system that embodies the Pacific principle of reciprocity while providing technical advantages and financial sovereignty to our communities.
 
 The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific Island communities:
 
@@ -24,7 +26,7 @@ The Pasifika Web3 Tech Hub addresses several critical challenges facing Pacific 
 - Limited technological infrastructure and digital inclusion
 - Need for sustainable economic development models
 
-Our solution implements the Pasifika Bitcoin Exchange with integrated physical infrastructure (Lightning Network nodes, local trading centers) and digital components (Bitcoin, Lightning Network, and Stacks for smart contracts) that generates real value while preserving cultural integrity. This Bitcoin-first approach ensures we can provide financial services that are secure, accessible, and aligned with our core values of reciprocity, community care, and shared prosperity, while leveraging the security and stability of the Bitcoin network.
+Our solution implements the Pasifika Bitcoin Exchange with integrated physical infrastructure (Lightning Network nodes, local trading centers) and digital components (Bitcoin and Lightning Network) that generates real value while preserving cultural integrity. This Bitcoin-first approach ensures we can provide financial services that are secure, accessible, and aligned with our core values of reciprocity, community care, and shared prosperity, while leveraging the security and stability of the Bitcoin network.
 
 ---
 
@@ -106,7 +108,7 @@ The Pasifika Web3 Tech Hub envisions a decentralized digital economy that embodi
 
 ### 2.1 Current Market Landscape
 
-The intersection of Bitcoin, Lightning Network, Stacks Clarity Smart Contracts and cultural marketplaces represents an innovative approach with limited established competitors. Current solutions targeting Pacific Island communities include:
+The intersection of Bitcoin, Lightning Network and cultural marketplaces represents an innovative approach with limited established competitors. Current solutions targeting Pacific Island communities include:
 
 - Traditional e-commerce platforms (limited catalog, high fees, cultural disconnect)
 - Cultural marketplaces (centralized, limited product range, high commissions)
@@ -123,7 +125,7 @@ The total addressable market for the platform includes:
 
 **Pacific Island agricultural export market: $2.8-3.1B annually**
 - Pacific exports grew 169% over 20 years reaching $9.6B total across all sectors
-- Agricultural products are core exports, with countries like Fiji seeing steady growth in crop and livestock exports
+- Agricultural products are core exports, with Pacific Island nations seeing steady growth in crop and livestock exports
 
 **Cultural preservation funding: $200-250M annually**
 - Supported by frameworks like the Pacific Regional Framework for the Protection of Traditional Knowledge and Expressions of Culture
@@ -185,8 +187,8 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 ### 3.1 Physical Infrastructure
 
-#### 3.1.1 Bitcoin & Stacks Clarity Smart Contracts & Lightning Network Infrastructure
-- Distributed network of Stacks Clarity Smart Contracts & Lightning Network nodes operated by community members
+#### 3.1.1 Bitcoin & Lightning Network Infrastructure
+- Distributed network of Lightning Network nodes operated by community members
 - Instant, low-cost transactions with sub-cent fees (typically < $0.01)
 - Support for microtransactions as small as 1 satoshi (0.00000001 BTC)
 - Integration with popular Bitcoin wallets (BlueWallet, Phoenix, Breez, etc.)
@@ -213,12 +215,12 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 ### 3.2 Digital Infrastructure
 
-#### 3.2.1 Stacks Blockchain
-- Smart contracts secured by Bitcoin's proof-of-work
-- Clarity programming language for predictable execution
-- Enhanced security with built-in safety features
-- STX token for platform operations and staking
-- Transparent, auditable smart contract execution
+#### 3.2.1 Bitcoin Network
+- Transactions secured by Bitcoin's proof-of-work
+- Lightning Network for instant payment processing
+- Enhanced security with Bitcoin's proven consensus
+- Bitcoin for platform operations and payments
+- Transparent, auditable transaction execution
 - Direct integration with Bitcoin network
 
 #### 3.2.2 Marketplace Smart Contracts
@@ -239,8 +241,6 @@ The platform integrates physical and digital infrastructure to create a comprehe
 - Quality verification records
 - Extensible metadata fields
 
-
-
 #### 3.2.6 Decentralized Marketplace
 - Web and mobile interfaces
 - Cultural context presentation
@@ -259,7 +259,7 @@ The platform integrates physical and digital infrastructure to create a comprehe
 
 ### 3.3 Web3 Market Place
 
-The Web3 Market Place represents a cornerstone of our platform infrastructure as a comprehensive marketplace designed specifically for Pacific Island communities with a focus on Bitcoin, Stacks blockchain with Clarity smart contracts, and Lightning Network. This groundbreaking financial component offers:
+The Web3 Market Place represents a cornerstone of our platform infrastructure as a comprehensive marketplace designed specifically for Pacific Island communities with a focus on Bitcoin and Lightning Network. This groundbreaking financial component offers:
 
 - Secure trading of digital assets with low fees and cross-island compatibility
 - Secure price verification for reliable token valuations
@@ -308,20 +308,21 @@ These principles are not merely cultural concepts but practical economic models 
 
 Our implementation of this philosophical foundation takes form in our Bitcoin-secured infrastructure strategy, leveraging the complementary strengths of Bitcoin-secured networks:
 
-**Stacks Network:**
-- Smart contracts secured by Bitcoin's proof-of-work consensus
-- Clarity programming language for predictable and secure execution
-- Enhanced security with built-in safety features and formal verification
-- STX token for platform operations, staking, and governance
-- Transparent, auditable smart contract execution without hidden states
+**Lightning Network:**
+- Payment channels secured by Bitcoin's proof-of-work consensus
+- Instant transaction processing for everyday commerce
+- Enhanced scalability with minimal fees and instant settlement
+- Bitcoin for platform operations, payments, and value storage
+- Transparent, auditable Lightning Network transactions
 - Direct integration with Bitcoin network for ultimate security
-- Support for complex decentralized applications on Bitcoin
-- Microblocks for faster transaction confirmation
+- Support for instant micropayments and everyday transactions
+- Lightning channels for faster transaction confirmation
 - Long-term value preservation aligned with Bitcoin's monetary policy
 - Integration with existing Bitcoin infrastructure in the Pacific region
 
-This Bitcoin-secured infrastructure approach embodies the Pacific principle of adaptation and resilience, creating multiple pathways for Bitcoin-secured participation and engagement while maintaining a cohesive ecosystem.
+This Bitcoin and Lightning Network approach embodies the Pacific principle of adaptation and resilience, creating multiple pathways for Bitcoin-secured participation and engagement while maintaining a cohesive ecosystem.
 
+## Building the Future of Pacific Island Web3 Technology on Bitcoin and Lightning Network
 ## 5. MEMBERSHIP SYSTEM
 
 ### 5.1 Tiered Structure
@@ -336,41 +337,36 @@ The platform employs a 3-tier system that rewards participation and contribution
 - No membership payment required
 
 **Tier 1: Member**
-- 0.5% transaction fee (50% discount from Guest tier)
-- Requires membership payment of 200 STX
-- Full marketplace access with enhanced features
-- Profit-sharing eligibility
+- Bitcoin payment requirement for membership
+- 0.5% transaction fee on marketplace activities
+- Access to premium features and early product launches
+- Profit-sharing eligibility from platform revenue
 - Community governance participation
-- Annual membership renewal required
 
 **Tier 2: Node Operator**
-- 0.25% transaction fee (75% discount from Guest tier)
-- Free tier for technical contributors
-- Requires operating and maintaining network infrastructure
-- Priority marketplace access and advanced features
-- Enhanced profit-sharing eligibility
-- Advanced governance rights and technical decision-making participation
+- Lightning Network node operation requirement
+- 0.25% transaction fee on marketplace activities
+- Priority access to new features and services
+- Enhanced profit-sharing rates
+- Technical leadership opportunities
+- Infrastructure contribution rewards
 
-### 5.2 Benefits & Rights
+### 5.2 Bitcoin Payments and Rewards
 
-Membership provides a range of benefits designed to incentivize participation:
+The membership system utilizes Bitcoin payments to align member incentives with platform success:
 
-**Economic Benefits:**
+**Payment Benefits:**
 - Reduced transaction fees
-- Eligibility for annual profit-sharing
-- Priority marketplace listing
-- Access to direct producer relationships
-- Cheaper cross-border transactions
-- Reduced escrow requirements
+- Governance voting rights
+- Profit-sharing distributions
+- Priority access to services
+- Community recognition
 
-**Governance Rights:**
-- Proposal submission rights
-- Voting on key decisions
-- Working group participation
-- Contribution to cultural protection guidelines
-
-**Access Benefits:**
-- Member-only resources and data
+**Reward Distribution:**
+- 40% of platform revenue distributed to members
+- Rewards calculated based on membership tier and participation
+- Monthly distribution in Bitcoin
+- Bonus rewards for Lightning Network node operators
 - Early access to new features
 - Educational materials and training
 - Technical support priority
@@ -746,21 +742,21 @@ The platform employs a comprehensive smart contract architecture:
 - PasifikaMoneyTransfer: Transaction handling with fee tiers
 - PasifikaNFT: NFT minting and management
 - PasifikaMarketplace: Listing and sales functionality
-- StacksTokenAdapter: STX handling with tier functionality
+- BitcoinPaymentAdapter: Bitcoin handling with tier functionality
 
 **Technical Features:**
-- Clarity smart contract language for predictable execution
-- Built-in safety features preventing runtime errors
-- Transparent and auditable contract logic
-- Bitcoin-secured consensus through Stacks blockchain
-- STX token integration for platform operations
-- Immutable contract deployment with upgrade mechanisms
-- Post-condition assertions for transaction validation
-- Native Bitcoin integration through Stacks
-- Microblock support for faster transaction confirmation
-- Fee collection mechanisms in STX
+- Lightning Network payment channels for instant execution
+- Built-in safety features preventing payment errors
+- Transparent and auditable transaction logic
+- Bitcoin-secured consensus through proof-of-work
+- Bitcoin integration for platform operations
+- Immutable transaction records on Bitcoin blockchain
+- Payment verification through Lightning Network
+- Native Bitcoin integration
+- Lightning Network support for faster transaction confirmation
+- Fee collection mechanisms in Bitcoin
 - Profit distribution system secured by Bitcoin
-- Comprehensive testing with Clarinet development environment
+- Comprehensive testing with Lightning Network testnet environment
 
 ---
 
@@ -769,7 +765,7 @@ The platform employs a comprehensive smart contract architecture:
 ### 11.1 Phase 1: Foundation (Q2-Q3 2025)
 - Core marketplace functionality (In Progress)
 - Basic membership system (In Progress)
-- Initial island hubs (Tonga, Fiji, Samoa, Tuvalu, Federated States of Micronesia (FSM), Honolulu (Hawaii), and New Zealand)
+- Initial island hubs (Tonga, Tuvalu, Solomon Islands, Federated States of Micronesia (FSM), Honolulu (Hawaii), and New Zealand)
 - Node operator recruitment and training
 - Cultural protection framework implementation
 
@@ -861,13 +857,13 @@ Treasury allocation follows this distribution model:
 
 ## 14. CONCLUSION
 
-The Pasifika Bitcoin Tech Hub represents a breakthrough approach to Bitcoin-enabled economic development that centers Pacific Island communities, cultures, and context. By integrating physical infrastructure with the Bitcoin and Lightning Network through our membership-based model, we create a self-reinforcing ecosystem that generates real value while preserving cultural heritage and embodying the Pacific principle that "If we take care of our own, they will take care of us."
+The Pasifika Web3 Tech Hub represents a breakthrough approach to Bitcoin-enabled economic development that centers Pacific Island communities, cultures, and context. By integrating physical infrastructure with the Bitcoin and Lightning Network through our membership based model, we create a self reinforcing ecosystem that generates real value while preserving cultural heritage and embodying the Pacific principle that "If we take care of our own, they will take care of us."
 
 Our approach is distinguished by several key innovations:
 
 1. **Pacific Values in Digital Form:** Built from the ground up on the principle of reciprocity that has guided island communities for generations
 
-2. **Bitcoin-Secured Infrastructure:** Strategic utilization of Bitcoin-secured networks including Stacks with Clarity smart contracts to provide enhanced security and resilience
+2. **Bitcoin-Secured Infrastructure:** Strategic utilization of Bitcoin and Lightning Network to provide enhanced security and resilience
 
 3. **Integrated Physical-Digital Infrastructure:** Seamless connection between computational resources, physical distribution, and digital marketplace
 
@@ -881,6 +877,6 @@ Through these innovations, the Pasifika Web3 Tech Hub aims to create a model for
 
 ---
 
-*This whitepaper outlines the vision and implementation plan for the Pasifika Web3 Tech Hub as of August 2025. The project is under active development, and some details may evolve as the platform matures.*
+*This whitepaper outlines the vision and implementation plan for the Pasifika Web3 Tech Hub as of September 2025. The project is under active development, and some details may evolve as the platform matures.*
 
 *Building a decentralized future rooted in Pacific traditions*
