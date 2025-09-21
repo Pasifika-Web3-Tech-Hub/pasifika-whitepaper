@@ -337,21 +337,41 @@ The platform employs a 3-tier system that rewards participation and contribution
 - No membership payment required
 
 **Tier 1: Member**
-- Bitcoin payment requirement for membership
-- 0.5% transaction fee on marketplace activities
+- Lightning Network payment: 50,000 sats (~$20)
+- 0.5% transaction fee on marketplace activities (50% discount)
 - Access to premium features and early product launches
 - Profit-sharing eligibility from platform revenue
 - Community governance participation
+- Lightning Network payment processing
 
 **Tier 2: Node Operator**
-- Lightning Network node operation requirement
-- 0.25% transaction fee on marketplace activities
+- Lightning Network payment: 25,000 sats (~$10)
+- 0.25% transaction fee on marketplace activities (75% discount)
 - Priority access to new features and services
 - Enhanced profit-sharing rates
 - Technical leadership opportunities
 - Infrastructure contribution rewards
 
-### 5.2 Bitcoin Payments and Rewards
+### 5.2 Lightning Network Payment Processing
+
+All membership payments are processed through the Lightning Network, providing instant, low-cost transactions:
+
+**Payment Features:**
+- Instant payment confirmation via Lightning Network
+- Sub-cent transaction fees (typically < $0.01)
+- Support for WebLN browser wallets (Alby, etc.)
+- QR code scanning for mobile wallets
+- Compatible with popular Lightning wallets (BlueWallet, Phoenix, Breez, Strike)
+- Real-time payment verification and membership activation
+- Automatic treasury crediting upon payment confirmation
+
+**Supported Payment Methods:**
+- WebLN instant payments for browser-based wallets
+- Lightning invoice QR codes for mobile wallet scanning
+- Manual Lightning invoice copying for any Lightning-compatible wallet
+- Real-time payment status tracking and confirmation
+
+### 5.3 Bitcoin Payments and Rewards
 
 The membership system utilizes Bitcoin payments to align member incentives with platform success:
 
